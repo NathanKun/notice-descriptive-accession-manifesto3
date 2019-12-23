@@ -107,22 +107,19 @@ Voiles en béton armé ou murs en maçonnerie, d’épaisseur suivant étude de 
 ```
 Entre locaux privatifs contigus :
 Voiles en béton armé de 18 cm d’épaisseur minimum, avec parements soignés ou murs en maçonnerie de 20 cm d’épaisseur minimum.
-Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique,
-d’épaisseur suivant réglementation en vigueur.
+Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique, d’épaisseur suivant réglementation en vigueur.
 ```
 ```
 Entre locaux privatifs et parties communes :
 ```
 ```
 Voiles en béton armé de 18 cm d’épaisseur minimum ou murs en maçonnerie de 20 cm d’épaisseur minimum.
-Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique,
-d’épaisseur suivant réglementation en vigueur.
+Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique, d’épaisseur suivant réglementation en vigueur.
 ```
 ```
 Entre locaux privatifs et combles perdus :
 Voiles en béton armé de 18 cm d’épaisseur minimum ou murs en maçonnerie de 20 cm d’épaisseur minimum.
-Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique,
-d’épaisseur suivant réglementation en vigueur.
+Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique, d’épaisseur suivant réglementation en vigueur.
 ```
 ##### 1.3. PLANCHERS
 
@@ -264,8 +261,7 @@ Couverture en zinc.
 Brisis en ardoise.
 Lucarnes avec façades en béton revêtu de pierre et toiture et jouées en bois revêtu de zinc.
 Châssis de toit, suivant plans.
-Désenfumage des cages d’escalier par skydome situé en toiture avec commande par tirez-
-lâchez depuis le rez-de-chaussée.
+Désenfumage des cages d’escalier par skydome situé en toiture avec commande par tirez-lâchez depuis le rez-de-chaussée.
 Local technique sous combles pour recevoir l’installation VMC.
 ```
 
@@ -294,8 +290,7 @@ Souche métallique ou maçonnée pour la ventilation haute du parking.
 2.1.1. Sols et plinthes des pièces principales
 
 ```
-Parquet contrecollé monolame, parement chêne et finition vernis usine de chez CFP,
-BERRY WOOD ou BAUWERK ou équivalent.
+Parquet contrecollé monolame, parement chêne et finition vernis usine de chez CFP, BERRY WOOD ou BAUWERK ou équivalent.
 Plinthes en médium finition usine de couleur blanche, de 100 mm de hauteur.
 ```
 2.1.2. Sols et plinthes des pièces de service (Cuisine, salle de bains, salle d’eau et WC)
@@ -322,8 +317,7 @@ Terrasses : Dalles béton sur plots sur étanchéité.
 Jardins d’hiver : Dalles bois ou composite sur plots.
 ```
 ```
-Une différence de niveaux pourra exister entre l’intérieur des logements et les balcons,
-loggias, terrasses et jardins d’hiver, conformément à la réglementation PMR.
+Une différence de niveaux pourra exister entre l’intérieur des logements et les balcons, loggias, terrasses et jardins d’hiver, conformément à la réglementation PMR.
 ```
 ##### 2.2. REVETEMENTS MURAUX (Autres que enduits, peintures, papiers peints et tentures)
 
@@ -388,8 +382,7 @@ Idem article 2.4.1.
 2.5.1. Pièces principales (Séjour et chambres)
 
 ```
-Volets roulants avec lames en aluminium avec coffre en PVC intégré aux menuiseries,
-localisation suivant plans.
+Volets roulants avec lames en aluminium avec coffre en PVC intégré aux menuiseries, localisation suivant plans.
 Manœuvre électrique individuelle.
 Suivant plans, certaines occultations seront réalisées par des volets battants, non motorisés.
 ```
@@ -512,15 +505,13 @@ Sur menuiseries bois : Impression et deux couches de peinture acrylique blanche,
 2.8.2.2. Sur murs
 
 ```
-Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche,
-finition mate velours.
+Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche, finition mate velours.
 Pièces humides : Enduit, deux couches de peinture acrylique blanche, finition satinée.
 ```
 2.8.2.3. Sur plafonds
 
 ```
-Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche,
-finition velours mate.
+Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche, finition velours mate.
 Pièces humides : Enduit, deux couches de peinture acrylique blanche, finition satinée.
 ```
 2.8.2.4. Sur canalisations, tuyauteries, chutes et divers
@@ -696,8 +687,7 @@ Salle de bain et (ou) salle d’eau :
 ```
 ```
 Séjour :
-* 1 point d’éclairage en plafond commandé par simple allumage ou en va-et-vient,
-suivant surface
+* 1 point d’éclairage en plafond commandé par simple allumage ou en va-et-vient, suivant surface
 ```
 
 
@@ -955,8 +945,7 @@ Mise en place d’un tapis brosse au droit de la première porte du sas.
 4.1.2. Parois
 
 ```
-Revêtement projeté, enduit décoratif, peinture, revêtement vinylique ou panneaux décoratifs,
-selon plan de décoration.
+Revêtement projeté, enduit décoratif, peinture, revêtement vinylique ou panneaux décoratifs, selon plan de décoration.
 ```
 4.1.3. Plafonds
 
@@ -1168,8 +1157,7 @@ Néant.
 ```
 Locaux poubelles situés au rez-de-chaussée.
 Dallage du sol en béton armé, finition carrelage grés cérame et plinthes assorties, pose collée.
-Murs en voiles de béton armé ou maçonneries, revêtus de faïences sur 1,50 m de hauteur,
-finition peinture vinylique au-dessus.
+Murs en voiles de béton armé ou maçonneries, revêtus de faïences sur 1,50 m de hauteur, finition peinture vinylique au-dessus.
 Porte d’accès en bois à âme pleine ou en métal, condamnation par serrure, finition peinture.
 Eclairage par hublot étanche commandé par interrupteur temporisé.
 Robinet de puisage et siphon de sol.
@@ -1183,8 +1171,7 @@ Dallage du sol en béton armé, finition peinture de sol.
 Murs en voiles béton armé ou maçonneries avec joints apparents, finition peinture vinylique
 (hors murs périphériques sous-sol restant bruts).
 Sous-face de plafond en béton, finition peinture vinylique.
-Porte d’accès en bois à âme pleine ou en métal avec serrure sur organigramme et barre anti-
-panique, équipée d’un ferme porte, finition peinture.
+Porte d’accès en bois à âme pleine ou en métal avec serrure sur organigramme et barre anti-panique, équipée d’un ferme porte, finition peinture.
 Eclairage par hublot commandé par interrupteur temporisé.
 ```
 4.7.3. Sous-station de chauffage
@@ -1214,8 +1201,7 @@ Locaux situés en combles.
 Dallage du sol en béton armé.
 Murs en voiles béton armé ou maçonneries avec joints apparents.
 Sous-face de plafond et rampants en charpente bois ou béton.
-Trappe d’accès depuis le palier inférieur en bois à âme pleine ou en métal avec serrure,
-finition peinture.
+Trappe d’accès depuis le palier inférieur en bois à âme pleine ou en métal avec serrure, finition peinture.
 ```
 
 
@@ -1257,11 +1243,9 @@ Néant.
 ```
 Ascenseur pour 8 personnes maximum Charge utile 630 kg.
 Vitesse 1 m/s minimum.
-Portes palières automatiques, deux vantaux à ouverture latérale, en acier inox à rez-de-
-chaussée et à peindre (teinte au choix de l’Architecte) dans le sous-sol et en étages.
+Portes palières automatiques, deux vantaux à ouverture latérale, en acier inox à rez-de-chaussée et à peindre (teinte au choix de l’Architecte) dans le sous-sol et en étages.
 Sol : dito revêtement de sol du hall du rez-de-chaussée.
-Eléments de décoration de la cabine : parois dans gamme du fabricant, éclairage de sécurité,
-faux-plafond partiel, miroir, main courante.
+Eléments de décoration de la cabine : parois dans gamme du fabricant, éclairage de sécurité, faux-plafond partiel, miroir, main courante.
 Liaison phonique entre la cabine et une société de surveillance.
 Appel de l’ascenseur au sous-sol et accès au sous-sol depuis la cabine par digicode ou contact à clé.
 ```
@@ -1455,8 +1439,7 @@ Béton désactivé ou enrobé noir ou dalles gravillonnées ou pavés, suivant p
 ##### 6.3. ESPACES VERTS
 
 ```
-Les modelés de terrains sont liés à la pente naturelle du site initial. Lorsqu’un rattrapage de niveau entre plusieurs lots est nécessaire, celui-ci se fera par l’intermédiaire, soit de talus,
-soit d’éléments de soutènement.
+Les modelés de terrains sont liés à la pente naturelle du site initial. Lorsqu’un rattrapage de niveau entre plusieurs lots est nécessaire, celui-ci se fera par l’intermédiaire, soit de talus, soit d’éléments de soutènement.
 ```
 6.3.1. Aires de repos
 
@@ -1466,8 +1449,7 @@ Néant.
 6.3.2. Plantations d’arbres, arbustes, fleurs
 
 ```
-Pendant la période favorable, plantation d’arbres de haute tige, d’arbustes et de haies vives,
-conformément au plan du Permis de Construire.
+Pendant la période favorable, plantation d’arbres de haute tige, d’arbustes et de haies vives, conformément au plan du Permis de Construire.
 Plantation de haies vives en limite des jardins à usage privatif, suivant plans.
 ```
 6.3.3. Engazonnement
@@ -1589,15 +1571,13 @@ Raccordement sur réseau public depuis chambre de tirage Télécom.
 ```
 Néant.
 ```
-6.7.10. Evacuation des eaux de pluies et de ruissellement sur le terrain, espaces verts, chemins,
-aires, cours et jeux
+6.7.10. Evacuation des eaux de pluies et de ruissellement sur le terrain, espaces verts, chemins, aires, cours et jeux
 
 ```
 Par bouches à grilles et raccordement à l’égout public.
 Bassin de rétention pour régulation des eaux pluviales enterré selon étude hydraulique spécifique.
 ```
-NOTA : La société peut apporter des modifications, admises de plein droit, de prestations, de structure,
-d’agencements intérieurs et extérieurs, dans le but de résoudre un problème technique ou de compléter ou de parfaire soit l’effet architectural, soit l’harmonie de l’opération, ou en cas de force majeure légitime, notamment :
+NOTA : La société peut apporter des modifications, admises de plein droit, de prestations, de structure, d’agencements intérieurs et extérieurs, dans le but de résoudre un problème technique ou de compléter ou de parfaire soit l’effet architectural, soit l’harmonie de l’opération, ou en cas de force majeure légitime, notamment :
 
 ```
 * en cas de réglementation administrative contraignante,
