@@ -8,8 +8,5 @@ $(function() {
 				originDiv.css('display', 'none');
 			}
 		});
-		$('.origin').click(function(ev) {
-			$(ev.currentTarget).css('display', 'none');
-		});
 	});
 })
