@@ -52,14 +52,14 @@ SNC KAUFMAN & BROAD PROMOTION 3
 <div class="result">
 
 
-## 说明说明性访问
+# 说明说明性访问
 
 
 </div>
 <div class="origin">
 
 
-## NOTICE DESCRIPTIVE ACCESSION
+# NOTICE DESCRIPTIVE ACCESSION
 
 
 </div>
@@ -104,14 +104,14 @@ SNC KAUFMAN & BROAD PROMOTION 3
 <div class="result">
 
 
-ZAC PANORAMA拍品06-
+### ZAC PANORAMA拍品06-
 
 
 </div>
 <div class="origin">
 
 
-#### ZAC PANORAMA Lot 06-
+### ZAC PANORAMA Lot 06-
 
 
 </div>
@@ -121,14 +121,14 @@ ZAC PANORAMA拍品06-
 <div class="result">
 
 
-#### CLAMART
+### CLAMART
 
 
 </div>
 <div class="origin">
 
 
-#### CLAMART
+### CLAMART
 
 
 </div>
@@ -138,14 +138,14 @@ ZAC PANORAMA拍品06-
 <div class="result">
 
 
-#### 101个集体住房的财产组
+## 101个集体住房的财产组
 
 
 </div>
 <div class="origin">
 
 
-#### ENSEMBLE IMMOBILIER DE 101 LOGEMENTS COLLECTIFS
+## ENSEMBLE IMMOBILIER DE 101 LOGEMENTS COLLECTIFS
 
 
 </div>
@@ -390,14 +390,14 @@ D’autre part, ce programme sera conforme :
 <div class="result">
 
 
-#### 1. 不可移植的一般技术特征
+## 1. 不可移植的一般技术特征
 
 
 </div>
 <div class="origin">
 
 
-#### 1. CARACTERISTIQUES TECHNIQUES GENERALES DE L’IMMEUBLE
+## 1. CARACTERISTIQUES TECHNIQUES GENERALES DE L’IMMEUBLE
 
 
 </div>
@@ -407,14 +407,14 @@ D’autre part, ce programme sera conforme :
 <div class="result">
 
 
-##### 1.1. 基础设施
+### 1.1. 基础设施
 
 
 </div>
 <div class="origin">
 
 
-##### 1.1. INFRASTRUCTURE
+### 1.1. INFRASTRUCTURE
 
 
 </div>
@@ -542,14 +542,14 @@ Suivant les résultats de l’étude de sol, il pourra être exécuté un autre 
 <div class="result">
 
 
-##### 1.2. 墙和框架
+### 1.2. 墙和框架
 
 
 </div>
 <div class="origin">
 
 
-##### 1.2. MURS ET OSSATURE
+### 1.2. MURS ET OSSATURE
 
 
 </div>
@@ -1040,14 +1040,14 @@ Suivant destination, doublages éventuels par complexe isolant thermique ou acou
 <div class="result">
 
 
-##### 1.3. 楼板
+### 1.3. 楼板
 
 
 </div>
 <div class="origin">
 
 
-##### 1.3. PLANCHERS
+### 1.3. PLANCHERS
 
 
 </div>
@@ -1495,14 +1495,14 @@ Isolation par chape thermique ou par projection de laine de roche ou par panneau
 <div class="result">
 
 
-##### 1.4. 分配分区
+### 1.4. 分配分区
 
 
 </div>
 <div class="origin">
 
 
-##### 1.4. CLOISONS DE DISTRIBUTION
+### 1.4. CLOISONS DE DISTRIBUTION
 
 
 </div>
@@ -1582,14 +1582,14 @@ Idem article 1.4.1.
 <div class="result">
 
 
-##### 1.5. 楼梯
+### 1.5. 楼梯
 
 
 </div>
 <div class="origin">
 
 
-##### 1.5. ESCALIERS
+### 1.5. ESCALIERS
 
 
 </div>
@@ -1669,14 +1669,14 @@ Idem article 1.5.1.
 <div class="result">
 
 
-##### 1.6. 吸烟和通风管道
+### 1.6. 吸烟和通风管道
 
 
 </div>
 <div class="origin">
 
 
-##### 1.6. CONDUITS DE FUMEE ET DE VENTILATION
+### 1.6. CONDUITS DE FUMEE ET DE VENTILATION
 
 
 </div>
@@ -1943,14 +1943,14 @@ La ventilation haute de la chaufferie passe par le conduit décrit à l’articl
 <div class="result">
 
 
-##### 1.7. 瀑布和大管道
+### 1.7. 瀑布和大管道
 
 
 </div>
 <div class="origin">
 
 
-##### 1.7. CHUTES ET GROSSES CANALISATIONS
+### 1.7. CHUTES ET GROSSES CANALISATIONS
 
 
 </div>
@@ -2100,14 +2100,14 @@ Evacuations sur réseau urbain suivants instructions des Services Techniques de 
 <div class="result">
 
 
-##### 1.8. 屋顶
+### 1.8. 屋顶
 
 
 </div>
 <div class="origin">
 
 
-##### 1.8. TOITURES
+### 1.8. TOITURES
 
 
 </div>
@@ -2402,14 +2402,14 @@ Souche métallique ou maçonnée pour la ventilation haute du parking.
 <div class="result">
 
 
-#### 2. 私人场所及其设备
+## 2. 私人场所及其设备
 
 
 </div>
 <div class="origin">
 
 
-#### 2. LOCAUX PRIVATIFS ET LEURS EQUIPEMENTS
+## 2. LOCAUX PRIVATIFS ET LEURS EQUIPEMENTS
 
 
 </div>
@@ -2419,14 +2419,14 @@ Souche métallique ou maçonnée pour la ventilation haute du parking.
 <div class="result">
 
 
-##### 2.1. 地板和裙子
+### 2.1. 地板和裙子
 
 
 </div>
 <div class="origin">
 
 
-##### 2.1. SOLS ET PLINTHES
+### 2.1. SOLS ET PLINTHES
 
 
 </div>
@@ -2738,14 +2738,14 @@ Une différence de niveaux pourra exister entre l’intérieur des logements et 
 <div class="result">
 
 
-##### 2.2. 墙面覆盖物（除了灰泥，油漆，墙纸和窗帘）
+### 2.2. 墙面覆盖物（除了灰泥，油漆，墙纸和窗帘）
 
 
 </div>
 <div class="origin">
 
 
-##### 2.2. REVETEMENTS MURAUX (Autres que enduits, peintures, papiers peints et tentures)
+### 2.2. REVETEMENTS MURAUX (Autres que enduits, peintures, papiers peints et tentures)
 
 
 </div>
@@ -2857,14 +2857,14 @@ Néant.
 <div class="result">
 
 
-##### 2.3. 天花板（绘画，饰物除外）
+### 2.3. 天花板（绘画，饰物除外）
 
 
 </div>
 <div class="origin">
 
 
-##### 2.3. PLAFONDS (Sauf peintures, tentures)
+### 2.3. PLAFONDS (Sauf peintures, tentures)
 
 
 </div>
@@ -3032,14 +3032,14 @@ Dalle en béton armé, destinée à recevoir une peinture, teinte au choix de l�
 <div class="result">
 
 
-##### 2.4. 外部连接
+### 2.4. 外部连接
 
 
 </div>
 <div class="origin">
 
 
-##### 2.4. MENUISERIES EXTERIEURES
+### 2.4. MENUISERIES EXTERIEURES
 
 
 </div>
@@ -3199,14 +3199,14 @@ Idem article 2.4.1.
 <div class="result">
 
 
-##### 2.5. 户外休息和职业，保护
+### 2.5. 户外休息和职业，保护
 
 
 </div>
 <div class="origin">
 
 
-##### 2.5. FERMETURES EXTERIEURES ET OCCULTATIONS, PROTECTION
+### 2.5. FERMETURES EXTERIEURES ET OCCULTATIONS, PROTECTION
 
 
 </div>
@@ -3216,14 +3216,14 @@ Idem article 2.4.1.
 <div class="result">
 
 
-##### 各向异性
+### 各向异性
 
 
 </div>
 <div class="origin">
 
 
-##### ANTISOLAIRE
+### ANTISOLAIRE
 
 
 </div>
@@ -3351,14 +3351,14 @@ Les salles de bains et salles d’eau n’auront pas d’occultation.
 <div class="result">
 
 
-##### 2.6. 室内装饰
+### 2.6. 室内装饰
 
 
 </div>
 <div class="origin">
 
 
-##### 2.6. MENUISERIES INTERIEURES
+### 2.6. MENUISERIES INTERIEURES
 
 
 </div>
@@ -3841,14 +3841,14 @@ Néant.
 <div class="result">
 
 
-##### 2.7. 锁具和护栏
+### 2.7. 锁具和护栏
 
 
 </div>
 <div class="origin">
 
 
-##### 2.7. SERRURERIE ET GARDE-CORPS
+### 2.7. SERRURERIE ET GARDE-CORPS
 
 
 </div>
@@ -3981,14 +3981,14 @@ Pare-vues sur les balcons et terrasses accessibles suivant plans, vitrés dans o
 <div class="result">
 
 
-##### 2.8. 绘画，纸张，墙壁
+### 2.8. 绘画，纸张，墙壁
 
 
 </div>
 <div class="origin">
 
 
-##### 2.8. PEINTURES, PAPIERS, TENTURES
+### 2.8. PEINTURES, PAPIERS, TENTURES
 
 
 </div>
@@ -4480,14 +4480,14 @@ Néant.
 <div class="result">
 
 
-##### 2.9. 内部设备
+### 2.9. 内部设备
 
 
 </div>
 <div class="origin">
 
 
-##### 2.9. EQUIPEMENTS INTERIEURS
+### 2.9. EQUIPEMENTS INTERIEURS
 
 
 </div>
@@ -6844,14 +6844,14 @@ L’application permettra le contrôle à distance de :
 <div class="result">
 
 
-#### 3.私人时间表
+## 3.私人时间表
 
 
 </div>
 <div class="origin">
 
 
-#### 3. ANNEXES PRIVATIVES
+## 3. ANNEXES PRIVATIVES
 
 
 </div>
@@ -6861,14 +6861,14 @@ L’application permettra le contrôle à distance de :
 <div class="result">
 
 
-##### 3.1. 洞穴
+### 3.1. 洞穴
 
 
 </div>
 <div class="origin">
 
 
-##### 3.1. CAVES
+### 3.1. CAVES
 
 
 </div>
@@ -7106,14 +7106,14 @@ Néant.
 <div class="result">
 
 
-##### 3.2. 有盖的箱子和停车场
+### 3.2. 有盖的箱子和停车场
 
 
 </div>
 <div class="origin">
 
 
-##### 3.2. BOX ET PARKINGS COUVERTS
+### 3.2. BOX ET PARKINGS COUVERTS
 
 
 </div>
@@ -7449,14 +7449,14 @@ Eclairage de sécurité réglementaire.
 <div class="result">
 
 
-##### 3.3. 户外公园
+### 3.3. 户外公园
 
 
 </div>
 <div class="origin">
 
 
-##### 3.3. PARKINGS EXTERIEURS
+### 3.3. PARKINGS EXTERIEURS
 
 
 </div>
@@ -7626,14 +7626,14 @@ Néant.
 <div class="result">
 
 
-#### 4.不兼容的常见内部部件
+## 4.不兼容的常见内部部件
 
 
 </div>
 <div class="origin">
 
 
-#### 4. PARTIES COMMUNES INTERIEURES A L’IMMEUBLE
+## 4. PARTIES COMMUNES INTERIEURES A L’IMMEUBLE
 
 
 </div>
@@ -7643,14 +7643,14 @@ Néant.
 <div class="result">
 
 
-##### 4.1. 建筑入口大厅
+### 4.1. 建筑入口大厅
 
 
 </div>
 <div class="origin">
 
 
-##### 4.1. HALL D’ENTREE DE L’IMMEUBLE
+### 4.1. HALL D’ENTREE DE L’IMMEUBLE
 
 
 </div>
@@ -8023,14 +8023,14 @@ Spots dans faux plafond et appliques décoratives, commandés par détecteurs de
 <div class="result">
 
 
-##### 4.2. 地面，走廊和地面的循环
+### 4.2. 地面，走廊和地面的循环
 
 
 </div>
 <div class="origin">
 
 
-##### 4.2. CIRCULATIONS DU REZ-DE-CHAUSSEE, COULOIRS ET ETAGES
+### 4.2. CIRCULATIONS DU REZ-DE-CHAUSSEE, COULOIRS ET ETAGES
 
 
 </div>
@@ -8335,14 +8335,14 @@ Une prise de courant « entretien » par niveau située, dans la gaine palière.
 <div class="result">
 
 
-##### 4.3. 地下室循环
+### 4.3. 地下室循环
 
 
 </div>
 <div class="origin">
 
 
-##### 4.3. CIRCULATIONS DU SOUS-SOL
+### 4.3. CIRCULATIONS DU SOUS-SOL
 
 
 </div>
@@ -8594,14 +8594,14 @@ Eclairage de sécurité réglementaire.
 <div class="result">
 
 
-##### 4.4. 楼梯
+### 4.4. 楼梯
 
 
 </div>
 <div class="origin">
 
 
-##### 4.4. CAGES D’ESCALIERS
+### 4.4. CAGES D’ESCALIERS
 
 
 </div>
@@ -8935,14 +8935,14 @@ Hublots commandés par boutons poussoirs sur minuterie.
 <div class="result">
 
 
-##### 4.5. 常见前提
+### 4.5. 常见前提
 
 
 </div>
 <div class="origin">
 
 
-##### 4.5. LOCAUX COMMUNS
+### 4.5. LOCAUX COMMUNS
 
 
 </div>
@@ -9207,14 +9207,14 @@ Néant.
 <div class="result">
 
 
-##### 4.6. 社会处所
+### 4.6. 社会处所
 
 
 </div>
 <div class="origin">
 
 
-##### 4.6. LOCAUX SOCIAUX
+### 4.6. LOCAUX SOCIAUX
 
 
 </div>
@@ -9314,14 +9314,14 @@ Néant.
 <div class="result">
 
 
-##### 4.7. 技术前提
+### 4.7. 技术前提
 
 
 </div>
 <div class="origin">
 
 
-##### 4.7. LOCAUX TECHNIQUES
+### 4.7. LOCAUX TECHNIQUES
 
 
 </div>
@@ -9983,14 +9983,14 @@ Eclairage par hublot commandé par interrupteur temporisé.
 <div class="result">
 
 
-##### 4.8. 礼宾部
+### 4.8. 礼宾部
 
 
 </div>
 <div class="origin">
 
 
-##### 4.8. CONCIERGERIE
+### 4.8. CONCIERGERIE
 
 
 </div>
@@ -10090,14 +10090,14 @@ Néant.
 <div class="result">
 
 
-#### 5.通用建筑设备
+## 5.通用建筑设备
 
 
 </div>
 <div class="origin">
 
 
-#### 5. EQUIPEMENTS GENERAUX DE L’IMMEUBLE
+## 5. EQUIPEMENTS GENERAUX DE L’IMMEUBLE
 
 
 </div>
@@ -10107,14 +10107,14 @@ Néant.
 <div class="result">
 
 
-##### 5.1. 电梯-电梯（不适用）
+### 5.1. 电梯-电梯（不适用）
 
 
 </div>
 <div class="origin">
 
 
-##### 5.1. ASCENSEURS - MONTE-CHARGES (Sans Objet)
+### 5.1. ASCENSEURS - MONTE-CHARGES (Sans Objet)
 
 
 </div>
@@ -10238,14 +10238,14 @@ Appel de l’ascenseur au sous-sol et accès au sous-sol depuis la cabine par di
 <div class="result">
 
 
-##### 5.2. 集体供暖和热水
+### 5.2. 集体供暖和热水
 
 
 </div>
 <div class="origin">
 
 
-##### 5.2. CHAUFFAGE ET EAU CHAUDE COLLECTIFS
+### 5.2. CHAUFFAGE ET EAU CHAUDE COLLECTIFS
 
 
 </div>
@@ -10572,7 +10572,7 @@ A partir de la chaudière collective gaz, l’eau chaude est distribuée dans ch
 <div class="origin">
 
 
-#### par le deuxième réseau.
+## par le deuxième réseau.
 
 
 </div>
@@ -10756,14 +10756,14 @@ A chaque étage, un piquage sur la colonne eau chaude sanitaire permettra d’al
 <div class="result">
 
 
-##### 5.3. 电讯
+### 5.3. 电讯
 
 
 </div>
 <div class="origin">
 
 
-##### 5.3. TELECOMMUNICATIONS
+### 5.3. TELECOMMUNICATIONS
 
 
 </div>
@@ -10875,14 +10875,14 @@ Depuis l’antenne collective, distribution par fourreaux encastrés dans les da
 <div class="result">
 
 
-##### 5.4. 家用垃圾的接收，存储和处置
+### 5.4. 家用垃圾的接收，存储和处置
 
 
 </div>
 <div class="origin">
 
 
-##### 5.4. RECEPTION, STOCKAGE ET EVACUATIONS DES ORDURES MENAGERES
+### 5.4. RECEPTION, STOCKAGE ET EVACUATIONS DES ORDURES MENAGERES
 
 
 </div>
@@ -10910,14 +10910,14 @@ Un local poubelles pour le tri sélectif décrit à l’article 4.7.1.
 <div class="result">
 
 
-##### 5.5. 校舍通风
+### 5.5. 校舍通风
 
 
 </div>
 <div class="origin">
 
 
-##### 5.5. VENTILATION DES LOCAUX
+### 5.5. VENTILATION DES LOCAUX
 
 
 </div>
@@ -10945,14 +10945,14 @@ Idem article 1.6.2. et 3.2.5.
 <div class="result">
 
 
-##### 5.6. 供水
+### 5.6. 供水
 
 
 </div>
 <div class="origin">
 
 
-##### 5.6. ALIMENTATION EN EAU
+### 5.6. ALIMENTATION EN EAU
 
 
 </div>
@@ -11136,14 +11136,14 @@ Sur colonnes montantes situées dans les gaines techniques palières, avec robin
 <div class="result">
 
 
-##### 5.7. 气体供应
+### 5.7. 气体供应
 
 
 </div>
 <div class="origin">
 
 
-##### 5.7. ALIMENTATION EN GAZ
+### 5.7. ALIMENTATION EN GAZ
 
 
 </div>
@@ -11276,14 +11276,14 @@ Néant.
 <div class="result">
 
 
-##### 5.8. 电力供应
+### 5.8. 电力供应
 
 
 </div>
 <div class="origin">
 
 
-##### 5.8. ALIMENTATION EN ELECTRICITE
+### 5.8. ALIMENTATION EN ELECTRICITE
 
 
 </div>
@@ -11416,14 +11416,14 @@ Alimentation du disjoncteur situé dans chaque logement.
 <div class="result">
 
 
-#### 6. 建筑及其外部的常见零件
+## 6. 建筑及其外部的常见零件
 
 
 </div>
 <div class="origin">
 
 
-#### 6. PARTIES COMMUNES EXTERIEURES A L’IMMEUBLE ET LEURS
+## 6. PARTIES COMMUNES EXTERIEURES A L’IMMEUBLE ET LEURS
 
 
 </div>
@@ -11433,14 +11433,14 @@ Alimentation du disjoncteur situé dans chaque logement.
 <div class="result">
 
 
-#### 设备
+## 设备
 
 
 </div>
 <div class="origin">
 
 
-#### EQUIPEMENTS
+## EQUIPEMENTS
 
 
 </div>
@@ -11450,14 +11450,14 @@ Alimentation du disjoncteur situé dans chaque logement.
 <div class="result">
 
 
-##### 6.1. 道路和停车场
+### 6.1. 道路和停车场
 
 
 </div>
 <div class="origin">
 
 
-##### 6.1. VOIRIE ET PARKINGS
+### 6.1. VOIRIE ET PARKINGS
 
 
 </div>
@@ -11588,14 +11588,14 @@ Néant.
 <div class="result">
 
 
-##### 6.2. 人行循环
+### 6.2. 人行循环
 
 
 </div>
 <div class="origin">
 
 
-##### 6.2. CIRCULATIONS DES PIETONS
+### 6.2. CIRCULATIONS DES PIETONS
 
 
 </div>
@@ -11640,14 +11640,14 @@ Béton désactivé ou enrobé noir ou dalles gravillonnées ou pavés, suivant p
 <div class="result">
 
 
-##### 6.3. 绿地
+### 6.3. 绿地
 
 
 </div>
 <div class="origin">
 
 
-##### 6.3. ESPACES VERTS
+### 6.3. ESPACES VERTS
 
 
 </div>
@@ -11903,14 +11903,14 @@ Néant.
 <div class="result">
 
 
-##### 6.4. 游乐场和运动器材
+### 6.4. 游乐场和运动器材
 
 
 </div>
 <div class="origin">
 
 
-##### 6.4. AIRE DE JEUX ET EQUIPEMENTS SPORTIFS
+### 6.4. AIRE DE JEUX ET EQUIPEMENTS SPORTIFS
 
 
 </div>
@@ -12008,14 +12008,14 @@ Néant.
 <div class="result">
 
 
-##### 6.5. 外部照明
+### 6.5. 外部照明
 
 
 </div>
 <div class="origin">
 
 
-##### 6.5. ECLAIRAGE EXTERIEUR
+### 6.5. ECLAIRAGE EXTERIEUR
 
 
 </div>
@@ -12095,14 +12095,14 @@ Néant.
 <div class="result">
 
 
-##### 6.6. 围栏
+### 6.6. 围栏
 
 
 </div>
 <div class="origin">
 
 
-##### 6.6. CLOTURES
+### 6.6. CLOTURES
 
 
 </div>
@@ -12249,14 +12249,14 @@ Pare-vues vitrés dans ossature métallique lorsque la haie végétale ne peut �
 <div class="result">
 
 
-##### 6.7. 杂类网络
+### 6.7. 杂类网络
 
 
 </div>
 <div class="origin">
 
 
-##### 6.7. RESEAUX DIVERS
+### 6.7. RESEAUX DIVERS
 
 
 </div>
