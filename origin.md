@@ -45,14 +45,14 @@ D’autre part, ce programme sera conforme :
 
 ### 1.1. INFRASTRUCTURE
 
-1.1.1. Fouilles
+#### 1.1.1. Fouilles
 
 ```
 Fouilles en pleine masse pour exécution du sous-sol.
 Fouilles en rigoles pour fondations.
 Enlèvement des terres excédentaires.
 ```
-1.1.2. Fondations
+#### 1.1.2. Fondations
 
 ```
 Fondations par semelles filantes et isolées en béton armé, suivant étude de structure.
@@ -60,7 +60,7 @@ Suivant les résultats de l’étude de sol, il pourra être exécuté un autre 
 ```
 ### 1.2. MURS ET OSSATURE
 
-1.2.1. Murs du sous-sol
+#### 1.2.1. Murs du sous-sol
 
 1.2.1.1. Murs périphériques
 
@@ -72,7 +72,7 @@ Parois en béton armé d’épaisseur suivant étude de structure, coffrage cour
 ```
 Voiles en béton armé d’épaisseur suivant étude de structure, coffrage courant pour faces destinées à rester apparentes ou maçonneries d’agglomérés.
 ```
-1.2.2. Murs de façades
+#### 1.2.2. Murs de façades
 
 ```
 Partie courante et allège par voiles en béton armé de 15 cm d’épaisseur minimum ou maçonneries d’agglomérés de 20 cm d’épaisseur minimum, revêtu de pierre semi massive.
@@ -80,29 +80,29 @@ Certains éléments de modénatures (corniches, appuis de fenêtres,...) pourron
 Coloris et nature au choix de l’architecte.
 Complexe isolant, d’épaisseur suivant réglementation en vigueur, associé à une plaque de plâtre, collée directement à l’intérieur sur les parois à isoler, selon plans.
 ```
-1.2.3. Murs pignons
+#### 1.2.3. Murs pignons
 
 ```
 Idem article 1.2.2.
 ```
 
 
-1.2.4. Murs mitoyens
+#### 1.2.4. Murs mitoyens
 
 ```
 Idem article 1.2.2.
 ```
-1.2.5. Murs extérieurs divers (loggias - séchoirs)
+#### 1.2.5. Murs extérieurs divers (loggias - séchoirs)
 
 ```
 Idem article 1.2.2.
 ```
-1.2.6. Murs porteurs à l’intérieur des locaux (refends)
+#### 1.2.6. Murs porteurs à l’intérieur des locaux (refends)
 
 ```
 Voiles en béton armé ou murs en maçonnerie, d’épaisseur suivant étude de structure.
 ```
-1.2.7. Murs ou cloisons séparatifs
+#### 1.2.7. Murs ou cloisons séparatifs
 
 ```
 Entre locaux privatifs contigus :
@@ -123,7 +123,7 @@ Suivant destination, doublages éventuels par complexe isolant thermique ou acou
 ```
 ### 1.3. PLANCHERS
 
-1.3.1. Dallage sur terre plein
+#### 1.3.1. Dallage sur terre plein
 
 ```
 Dallage flottant en béton armé sur terre plein, surfacé, coulé sur forme en sablon compacté
@@ -133,7 +133,7 @@ Cunettes périphériques dans le sous-sol permettant de recueillir les eaux d’
 Réseau sous dallage dans le sous-sol permettant de recueillir les eaux du parking avec bac de décantation et pompe de relevage.
 Caniveau en haut de rampe au droit de la porte basculante (dans le lot 06-2).
 ```
-1.3.2. Planchers des logements
+#### 1.3.2. Planchers des logements
 
 ```
 Planchers sur étage courant :
@@ -160,12 +160,12 @@ Plancher sous terrasses :
 Idem planchers sur étage courant.
 Isolation thermique au droit des locaux chauffés en panneaux de mousse polyuréthane posés sous l’étanchéité.
 ```
-1.3.3. Planchers sur locaux collectifs, techniques, entrées, circulations et locaux chauffés
+#### 1.3.3. Planchers sur locaux collectifs, techniques, entrées, circulations et locaux chauffés
 
 ```
 Idem article 1.3.2. planchers sur étage courant.
 ```
-1.3.4. Planchers sur locaux non chauffés ou ouverts
+#### 1.3.4. Planchers sur locaux non chauffés ou ouverts
 
 ```
 Idem article 1.3.2. planchers sur étage courant.
@@ -173,57 +173,57 @@ Isolation par chape thermique ou par projection de laine de roche ou par panneau
 ```
 ### 1.4. CLOISONS DE DISTRIBUTION
 
-1.4.1. Entre pièces principales
+#### 1.4.1. Entre pièces principales
 
 ```
 Plaques de plâtre associées à une ossature métallique avec incorporation de laine de verre type « PLACOSTYL » ou équivalent, d’épaisseur 70 mm.
 ```
-1.4.2. Entre pièces principales et pièces de service
+#### 1.4.2. Entre pièces principales et pièces de service
 
 ```
 Idem article 1.4.1.
 ```
 ### 1.5. ESCALIERS
 
-1.5.1. Escaliers
+#### 1.5.1. Escaliers
 
 ```
 Escaliers des parties communes en béton armé préfabriqué ou coulé en place.
 ```
-1.5.2. Escaliers de secours
+#### 1.5.2. Escaliers de secours
 
 ```
 Idem article 1.5.1.
 ```
 ### 1.6. CONDUITS DE FUMEE ET DE VENTILATION
 
-1.6.1. Conduits de fumée des locaux de l’immeuble
+#### 1.6.1. Conduits de fumée des locaux de l’immeuble
 
 ```
 Néant.
 ```
 
 
-1.6.2. Conduits de ventilation des locaux
+#### 1.6.2. Conduits de ventilation des locaux
 
 ```
 Dans les pièces humides, ventilation mécanique par conduits souples ou métalliques disposés dans les gaines techniques des logements, reliés à un groupe d’extraction collectif situé sous combles compris souche de rejet hors toiture.
 Ventilation mécanique du parc de stationnement fermé.
 Ventilation mécanique des locaux poubelles à l’intérieur de l’immeuble.
 ```
-1.6.3. Conduits d’air frais
+#### 1.6.3. Conduits d’air frais
 
 ```
 Arrivée d’air frais par entrées d’air situées en façades ou dans les menuiseries des pièces sèches.
 Amenée d’air frais naturel dans le parc de stationnement fermé et dans les locaux poubelles.
 ```
-1.6.4. Conduits de fumée de chaufferie
+#### 1.6.4. Conduits de fumée de chaufferie
 
 ```
 Uniquement pour les logements des cages B et C.
 Conduit métallique dans gaine en béton ou boisseaux traversant les logements pour l’évacuation collective des gaz brûlés avec souche en sortie de toiture.
 ```
-1.6.5. Ventilation haute de chaufferie
+#### 1.6.5. Ventilation haute de chaufferie
 
 ```
 Uniquement pour les logements des cages B et C.
@@ -236,24 +236,24 @@ La ventilation haute de la chaufferie passe par le conduit décrit à l’articl
 ```
 Descentes extérieures en zinc.
 ```
-1.7.2. Chutes d’eaux usées
+#### 1.7.2. Chutes d’eaux usées
 
 ```
 Descentes intérieures en PVC.
 ```
-1.7.3. Canalisations en sous-sol
+#### 1.7.3. Canalisations en sous-sol
 
 ```
 Canalisations en PVC, des divers réseaux, enterrées, en sous-face du plancher haut du parc de stationnement ou en fond de places de parking.
 ```
-1.7.4. Branchements aux égouts
+#### 1.7.4. Branchements aux égouts
 
 ```
 Evacuations sur réseau urbain suivants instructions des Services Techniques de la Ville.
 ```
 ### 1.8. TOITURES
 
-1.8.1. Charpente, couverture et accessoires
+#### 1.8.1. Charpente, couverture et accessoires
 
 ```
 Charpente en bois traité type fermettes industrialisées ou charpente traditionnelle ou en béton.
@@ -266,7 +266,7 @@ Local technique sous combles pour recevoir l’installation VMC.
 ```
 
 
-1.8.2. Etanchéité et accessoires
+#### 1.8.2. Etanchéité et accessoires
 
 ```
 Terrasses jardins exécutées en complexe bicouche élastomère, protégée par couche drainante et interposition d’un feutre filtrant avec la terre végétale.
@@ -274,7 +274,7 @@ Pour les terrasses situées au-dessus des locaux chauffés, étanchéité par co
 Protection des terrasses et loggias accessibles par dalles béton posées sur plots.
 Protection des terrasses inaccessibles par gravillons ou système auto-protégé.
 ```
-1.8.3. Souches de cheminées, ventilations et conduits divers
+#### 1.8.3. Souches de cheminées, ventilations et conduits divers
 
 ```
 Sortie en toiture des ventilations primaires de chute.
@@ -287,13 +287,13 @@ Souche métallique ou maçonnée pour la ventilation haute du parking.
 
 ### 2.1. SOLS ET PLINTHES
 
-2.1.1. Sols et plinthes des pièces principales
+#### 2.1.1. Sols et plinthes des pièces principales
 
 ```
 Parquet contrecollé monolame, parement chêne et finition vernis usine de chez CFP, BERRY WOOD ou BAUWERK ou équivalent.
 Plinthes en médium finition usine de couleur blanche, de 100 mm de hauteur.
 ```
-2.1.2. Sols et plinthes des pièces de service (Cuisine, salle de bains, salle d’eau et WC)
+#### 2.1.2. Sols et plinthes des pièces de service (Cuisine, salle de bains, salle d’eau et WC)
 
 ```
 Carrelage en grés émaillé de chez SALONI ou VITRA ou équivalent.
@@ -301,7 +301,7 @@ Pose collée sur chape acoustique.
 Coloris suivant gamme BLEUE d’échantillons Kaufman & Broad.
 Plinthes assorties au carrelage.
 ```
-2.1.3. Sols et plinthes des entrées et dégagements
+#### 2.1.3. Sols et plinthes des entrées et dégagements
 
 ```
 Entrée : Idem séjour.
@@ -321,21 +321,21 @@ Une différence de niveaux pourra exister entre l’intérieur des logements et 
 ```
 ### 2.2. REVETEMENTS MURAUX (Autres que enduits, peintures, papiers peints et tentures)
 
-2.2.1. Revêtements muraux des pièces de service (Salle de bain et salle d’eau)
+#### 2.2.1. Revêtements muraux des pièces de service (Salle de bain et salle d’eau)
 
 ```
 Faïences alignées sur la partie haute de l’huisserie de la porte au droit de la baignoire et toute hauteur au droit de la douche, avec listel indépendant.
 Coloris suivant gamme BLEUE d’échantillons Kaufman & Broad.
 Tablier de baignoire en carreaux de plâtre ou panneau extrudé revêtus de faïences avec trappe d’accès incorporée.
 ```
-2.2.2. Revêtements muraux dans les autres pièces
+#### 2.2.2. Revêtements muraux dans les autres pièces
 
 ```
 Néant.
 ```
 ### 2.3. PLAFONDS (Sauf peintures, tentures)
 
-2.3.1. Plafonds des pièces intérieures
+#### 2.3.1. Plafonds des pièces intérieures
 
 ```
 Dalle en béton armé, destinée à recevoir une peinture, en étage courant.
@@ -343,24 +343,24 @@ Localement, pour masquer des dévoiements de canalisations, certaines pièces in
 ```
 
 
-2.3.2. Plafonds des séchoirs à l’air libre
+#### 2.3.2. Plafonds des séchoirs à l’air libre
 
 ```
 Sans objet.
 ```
-2.3.3. Plafonds des loggias
+#### 2.3.3. Plafonds des loggias
 
 ```
 Dalle en béton armé destinée à recevoir une peinture, teinte au choix de l’Architecte.
 ```
-2.3.4. Sous-face des balcons
+#### 2.3.4. Sous-face des balcons
 
 ```
 Dalle en béton armé, destinée à recevoir une peinture, teinte au choix de l’Architecte.
 ```
 ### 2.4. MENUISERIES EXTERIEURES
 
-2.4.1. Menuiseries extérieures des pièces principales
+#### 2.4.1. Menuiseries extérieures des pièces principales
 
 ```
 Fenêtres et portes-fenêtres en bois ou bois-aluminium, teinte au choix de l’Architecte
@@ -370,7 +370,7 @@ Double vitrage isolant d’une épaisseur suivant études thermique et acoustiqu
 Au rez-de-chaussée, les menuiseries seront équipées de vitrage isolant avec une face en vitrage retardateur d’effraction type Stadip 44/2.
 Les menuiseries des jardins d’hiver seront traitées en acier ou aluminium.
 ```
-2.4.2. Menuiseries extérieures des pièces de service
+#### 2.4.2. Menuiseries extérieures des pièces de service
 
 ```
 Idem article 2.4.1.
@@ -379,14 +379,14 @@ Idem article 2.4.1.
 
 ### ANTISOLAIRE
 
-2.5.1. Pièces principales (Séjour et chambres)
+#### 2.5.1. Pièces principales (Séjour et chambres)
 
 ```
 Volets roulants avec lames en aluminium avec coffre en PVC intégré aux menuiseries, localisation suivant plans.
 Manœuvre électrique individuelle.
 Suivant plans, certaines occultations seront réalisées par des volets battants, non motorisés.
 ```
-2.5.2. Pièces de service (Cuisine uniquement)
+#### 2.5.2. Pièces de service (Cuisine uniquement)
 
 ```
 Idem article 2.5.1.
@@ -394,13 +394,13 @@ Les salles de bains et salles d’eau n’auront pas d’occultation.
 ```
 ### 2.6. MENUISERIES INTERIEURES
 
-2.6.1. Huisseries et bâtis
+#### 2.6.1. Huisseries et bâtis
 
 ```
 Huisseries métalliques pour toutes les portes intérieures de distribution.
 Bâtis en bois ou métalliques pour les trappes de visite des gaines techniques.
 ```
-2.6.2. Portes intérieures
+#### 2.6.2. Portes intérieures
 
 ```
 Portes isoplanes à recouvrement, à âme alvéolaire, deux faces laquées en usine.
@@ -414,12 +414,12 @@ Serrure à condamnation pour salles de bains, salles d’eau et WC.
 Clef sur toutes les portes de chambres.
 Butées de portes.
 ```
-2.6.3. Impostes en menuiseries
+#### 2.6.3. Impostes en menuiseries
 
 ```
 Néant.
 ```
-2.6.4. Portes palières
+#### 2.6.4. Portes palières
 
 ```
 Porte palière isolante en bois à âme pleine, finition stratifiée sur les deux faces ou à peindre.
@@ -431,36 +431,36 @@ Paumelles anti-dégondage.
 Poignées extérieure et intérieure, finition inox brossé ou chromée.
 Butée de porte.
 ```
-2.6.5. Portes de placards
+#### 2.6.5. Portes de placards
 
 ```
 Façades de placard coulissantes toute hauteur d’épaisseur 10 mm, finition structurée en mélaminé blanc de type KENDOORS de chez SOGAL ou PREMIUM de chez ROLER ou GRAFIC de chez SIFISA ou équivalent, suivant plans.
 Pour une largeur de placard inférieure ou égale à 100 cm, porte pivotante, toute hauteur.
 ```
-2.6.6. Portes de locaux de rangements (dressings, celliers)
+#### 2.6.6. Portes de locaux de rangements (dressings, celliers)
 
 ```
 Idem article 2.6.2.
 ```
-2.6.7. Moulures et habillages
+#### 2.6.7. Moulures et habillages
 
 ```
 Néant.
 ```
 ### 2.7. SERRURERIE ET GARDE-CORPS
 
-2.7.1. Garde-corps et barres d’appui
+#### 2.7.1. Garde-corps et barres d’appui
 
 ```
 Garde-corps des balcons et barres d’appuis selon plans de façades, en serrurerie peinte ou acier laqué d’usine, teinte au choix de l’Architecte.
 Mains-courantes et garde-corps métalliques peints sur escaliers des parties communes, teinte au choix de l’Architecte.
 ```
-2.7.2. Grilles de protection des baies
+#### 2.7.2. Grilles de protection des baies
 
 ```
 Néant.
 ```
-2.7.3. Ouvrages divers
+#### 2.7.3. Ouvrages divers
 
 ```
 Pare-vues sur les balcons et terrasses accessibles suivant plans, vitrés dans ossature métallique peinte, teinte au choix de l’Architecte.
@@ -469,7 +469,7 @@ Pare-vues sur les balcons et terrasses accessibles suivant plans, vitrés dans o
 
 ### 2.8. PEINTURES, PAPIERS, TENTURES
 
-2.8.1. Peintures extérieures et vernis
+#### 2.8.1. Peintures extérieures et vernis
 
 2.8.1.1. Sur menuiseries
 
@@ -494,7 +494,7 @@ Brossage et application de deux couches de peinture anti-corrosion ou laquée d�
 ```
 Deux couches de peinture pour extérieur, teinte au choix de l’Architecte.
 ```
-2.8.2. Peintures intérieures
+#### 2.8.2. Peintures intérieures
 
 2.8.2.1. Sur menuiseries
 
@@ -519,12 +519,12 @@ Pièces humides : Enduit, deux couches de peinture acrylique blanche, finition s
 ```
 Deux couches de peinture acrylique blanche satinée sur parties apparentes des canalisations.
 ```
-2.8.3. Papiers peints
+#### 2.8.3. Papiers peints
 
 ```
 Néant.
 ```
-2.8.4. Tentures (tissus, toiles plastifiées, etc.)
+#### 2.8.4. Tentures (tissus, toiles plastifiées, etc.)
 
 ```
 Néant.
@@ -533,7 +533,7 @@ Néant.
 
 ### 2.9. EQUIPEMENTS INTERIEURS
 
-2.9.1. Equipements ménagers
+#### 2.9.1. Equipements ménagers
 
 2.9.1.1. Bloc-évier, robinetterie
 
@@ -559,7 +559,7 @@ Néant.
 ```
 Néant.
 ```
-2.9.2. Equipements sanitaires et plomberie
+#### 2.9.2. Equipements sanitaires et plomberie
 
 2.9.2.1. Distribution d’eau froide
 
@@ -634,7 +634,7 @@ Flexible, douchette et barre de douche type CHROMETA de chez HANSGROHE ou CONFOR
 Pare douche en verre clair avec profilés blancs type SUPRA 2 de chez KINEDO ou VICTORIA de chez ROCA ou équivalent pour les douches.
 Robinet de puisage pour les jardins privatifs au rez-de-chaussée et pour les terrasses privatives >10m² en étage.
 ```
-2.9.3. Equipements électriques
+#### 2.9.3. Equipements électriques
 
 2.9.3.1. Type d’installation
 
@@ -723,7 +723,7 @@ Terrasses jardins et jardins d’hiver au rez-de-chaussée et >10m² en étages 
 ```
 Sonnette de marque LEGRAND ou équivalent.
 ```
-2.9.4. Chauffage, cheminées, ventilations
+#### 2.9.4. Chauffage, cheminées, ventilations
 
 2.9.4.1. Type d’installation
 
@@ -768,7 +768,7 @@ Conduits en tôle acier galvanisé ou conduits souples et bouches d’extraction
 ```
 Bouches de ventilation en façades ou dans menuiseries extérieures des pièces principales.
 ```
-2.9.5. Equipement Intérieur des placards et pièces de rangement
+#### 2.9.5. Equipement Intérieur des placards et pièces de rangement
 
 2.9.5.1. Placards
 
@@ -780,7 +780,7 @@ Placards équipés d’une étagère et d’une tringle.
 ```
 Néant.
 ```
-2.9.6. Equipements de télécommunications
+#### 2.9.6. Equipements de télécommunications
 
 2.9.6.1. Radio - TV
 
@@ -803,7 +803,7 @@ Studios :
 Digicode et badge de proximité résident Vigik sur la première porte du hall.
 Commande actionnant la seconde porte du hall depuis le combiné vidéophone situé dans l’entrée des appartements et badge de proximité résident Vigik.
 ```
-2.9.7. Autres équipements
+#### 2.9.7. Autres équipements
 
 2.9.7.1. Escaliers intérieurs
 
@@ -832,32 +832,32 @@ L’application permettra le contrôle à distance de :
 ```
 Néant.
 ```
-3.1.1. Murs et cloisons
+#### 3.1.1. Murs et cloisons
 
 ```
 Néant.
 ```
-3.1.2. Plafonds
+#### 3.1.2. Plafonds
 
 ```
 Néant.
 ```
-3.1.3. Sols
+#### 3.1.3. Sols
 
 ```
 Néant.
 ```
-3.1.4. Portes d’accès
+#### 3.1.4. Portes d’accès
 
 ```
 Néant.
 ```
-3.1.5. Ventilation
+#### 3.1.5. Ventilation
 
 ```
 Néant.
 ```
-3.1.6. Equipement électrique
+#### 3.1.6. Equipement électrique
 
 ```
 Néant.
@@ -868,24 +868,24 @@ Néant.
 Les places de parking sont réputées non boxables (hors places logements sociaux boxées à la livraison), sauf décision des copropriétaires lors d’une assemblée générale après obtention de la conformité du permis de construire et sous réserve de garantir le bon fonctionnement de la ventilation du parking et les accès aux tampons de visite.
 Le parking est susceptible d’être inondable sur toute ou partie de sa superficie.
 ```
-3.2.1. Murs et cloisons
+#### 3.2.1. Murs et cloisons
 
 ```
 Voiles en béton armé ou maçonnerie d’agglomérés, finition peinture vinylique (hors murs périphériques restant bruts).
 ```
-3.2.2. Plafonds
+#### 3.2.2. Plafonds
 
 ```
 Béton armé, finition peinture vinylique.
 Certaines zones situées sous des parties habitables recevront une isolation thermique en sous-face de plancher.
 ```
-3.2.3. Sols
+#### 3.2.3. Sols
 
 ```
 Dallage en béton armé, surfaçage courant, finition peinture de sol suivant compatibilité avec le système de protection vis-à-vis de l’eau.
 Numérotage et marquage au sol des emplacements de stationnement en peinture spéciale.
 ```
-3.2.4. Porte d’accès
+#### 3.2.4. Porte d’accès
 
 ```
 L’accès aux parkings en sous-sol se fera par le biais d’une porte motorisée métallique automatique commandée par émetteur (1 par place).
@@ -893,12 +893,12 @@ Porte extérieure dans le lot 06-2 et porte séparative en limite de propriété
 ```
 
 
-3.2.5. Ventilation
+#### 3.2.5. Ventilation
 
 ```
 Ventilation mécanique par gaines avec prises d’air et rejets sur l’extérieur, conforme à la réglementation en vigueur.
 ```
-3.2.6. Equipement électrique
+#### 3.2.6. Equipement électrique
 
 ```
 Eclairage par luminaires avec tubes fluorescents, commandés par détecteurs de présence sur minuterie, conformément à la réglementation en vigueur.
@@ -910,22 +910,22 @@ Eclairage de sécurité réglementaire.
 ```
 Néant.
 ```
-3.3.1. Sol
+#### 3.3.1. Sol
 
 ```
 Néant.
 ```
-3.3.2. Délimitation au sol
+#### 3.3.2. Délimitation au sol
 
 ```
 Néant.
 ```
-3.3.3. Système de repérage
+#### 3.3.3. Système de repérage
 
 ```
 Néant.
 ```
-3.3.4. Système condamnant l’accès
+#### 3.3.4. Système condamnant l’accès
 
 ```
 Néant.
@@ -936,91 +936,91 @@ Néant.
 
 ### 4.1. HALL D’ENTREE DE L’IMMEUBLE
 
-4.1.1. Sols
+#### 4.1.1. Sols
 
 ```
 Carrelage en grés cérame de dimensions 45 x 45 cm ou 30 x 60 cm suivant plan de décoration, dans le sas du hall, pose collée.
 Mise en place d’un tapis brosse au droit de la première porte du sas.
 ```
-4.1.2. Parois
+#### 4.1.2. Parois
 
 ```
 Revêtement projeté, enduit décoratif, peinture, revêtement vinylique ou panneaux décoratifs, selon plan de décoration.
 ```
-4.1.3. Plafonds
+#### 4.1.3. Plafonds
 
 ```
 Faux-plafond en plaques de plâtre avec 2 couches de peinture acrylique, finition mate.
 ```
-4.1.4. Eléments de décoration
+#### 4.1.4. Eléments de décoration
 
 ```
 Néant.
 ```
-4.1.5. Portes d’accès et système de fermeture, appel des occupants de l’immeuble
+#### 4.1.5. Portes d’accès et système de fermeture, appel des occupants de l’immeuble
 
 ```
 Ensemble en acier laqué vitré, fermeture par ventouses électromagnétiques.
 Commande par digicode, et badge de proximité type Vigik pour la porte extérieure et par vidéophone et badge de proximité type Vigik pour la porte intérieure.
 ```
-4.1.6. Boîte aux lettres et à paquets
+#### 4.1.6. Boîte aux lettres et à paquets
 
 ```
 Ensemble de boites aux lettres situé dans le sas du hall de dimensions suivant normes de La Poste.
 Boites aux lettres des cages A et C dans le hall commun de la cage C.
 ```
-4.1.7. Tableau d’affichage
+#### 4.1.7. Tableau d’affichage
 
 ```
 A proximité de l’ensemble de boîtes aux lettres.
 ```
-4.1.8. Chauffage
+#### 4.1.8. Chauffage
 
 ```
 Néant.
 ```
-4.1.9. Equipement électrique
+#### 4.1.9. Equipement électrique
 
 ```
 Spots dans faux plafond et appliques décoratives, commandés par détecteurs de présence.
 ```
 ### 4.2. CIRCULATIONS DU REZ-DE-CHAUSSEE, COULOIRS ET ETAGES
 
-4.2.1. Sols
+#### 4.2.1. Sols
 
 ```
 Au rez-de-chaussée : Carrelage, pose collée, avec plinthes assorties.
 En étages : Moquette collée de type DUO LES BEST de chez BALSAN avec plinthes en bois peint.
 ```
-4.2.2. Murs
+#### 4.2.2. Murs
 
 ```
 Revêtement mural décoratif vinylique collé ou peinture.
 ```
 
 
-4.2.3. Plafonds
+#### 4.2.3. Plafonds
 
 ```
 Peinture acrylique, finition mate.
 ```
-4.2.4. Eléments de décoration
+#### 4.2.4. Eléments de décoration
 
 ```
 Néant.
 ```
-4.2.5. Chauffage
+#### 4.2.5. Chauffage
 
 ```
 Néant.
 ```
-4.2.6. Portes
+#### 4.2.6. Portes
 
 ```
 Portes pleines coupe-feu ou pare-flammes suivant réglementation, finition peinture.
 Portes de gaines en bois médium peint ou avec un revêtement décoratif.
 ```
-4.2.7. Equipement électrique
+#### 4.2.7. Equipement électrique
 
 ```
 Appareils décoratifs commandés par détecteurs de présence.
@@ -1028,33 +1028,33 @@ Une prise de courant « entretien » par niveau située, dans la gaine palière.
 ```
 ### 4.3. CIRCULATIONS DU SOUS-SOL
 
-4.3.1. Sols
+#### 4.3.1. Sols
 
 ```
 Sols en béton armé. Finition peinture de sol dans les sas et dégagements.
 ```
-4.3.2. Murs
+#### 4.3.2. Murs
 
 ```
 En béton ou maçonneries, finition peinture vinylique.
 ```
-4.3.3. Plafonds
+#### 4.3.3. Plafonds
 
 ```
 En béton, finition peinture vinylique.
 ```
-4.3.4. Portes d’accès
+#### 4.3.4. Portes d’accès
 
 ```
 Portes des sas en bois à âme pleine, avec ferme-porte hydraulique, finition peinture.
 Les portes d’accès aux escaliers du sous-sol à partir du RDC sont condamnées par une serrure de sûreté.
 ```
-4.3.5. Rampes d’accès pour véhicules
+#### 4.3.5. Rampes d’accès pour véhicules
 
 ```
 En béton brut, finition balayée.
 ```
-4.3.6. Equipement électrique
+#### 4.3.6. Equipement électrique
 
 ```
 Hublots commandés par boutons poussoirs lumineux sur minuterie.
@@ -1062,28 +1062,28 @@ Eclairage de sécurité réglementaire.
 ```
 ### 4.4. CAGES D’ESCALIERS
 
-4.4.1. Sols des paliers
+#### 4.4.1. Sols des paliers
 
 ```
 En béton surfacé, finition peinture de sol.
 ```
 
 
-4.4.2. Murs
+#### 4.4.2. Murs
 
 ```
 En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou
 équivalent.
 En infrastructure : béton ou maçonneries, finition peinture vinylique.
 ```
-4.4.3. Plafonds
+#### 4.4.3. Plafonds
 
 ```
 En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou
 équivalent.
 En infrastructure : béton ou maçonneries, finition peinture vinylique.
 ```
-4.4.4. Escaliers (marches, contre-marches)
+#### 4.4.4. Escaliers (marches, contre-marches)
 
 ```
 Marches et contre-marches en béton surfacé, finition peinture de sol à l’exception de la première volée qui sera revêtue de lès PVC en superstructure.
@@ -1091,19 +1091,19 @@ En superstructure : sous-face en béton, finition enduit projeté type « Bagar 
 En infrastructure : Sous-face en béton, finition peinture vinylique.
 Mains courantes métalliques, finition peinture, teinte au choix de l’Architecte.
 ```
-4.4.5. Chauffage, ventilation
+#### 4.4.5. Chauffage, ventilation
 
 ```
 Néant.
 ```
-4.4.6. Eclairage
+#### 4.4.6. Eclairage
 
 ```
 Hublots commandés par boutons poussoirs sur minuterie.
 ```
 ### 4.5. LOCAUX COMMUNS
 
-4.5.1. Garages à bicyclettes, voitures d’enfants
+#### 4.5.1. Garages à bicyclettes, voitures d’enfants
 
 ```
 Locaux pour vélos et voitures d’enfants situés au sous-sol et au rez-de-chaussée.
@@ -1113,22 +1113,22 @@ Sous-face de plancher haut en béton, finition peinture vinylique.
 Porte d’accès en bois à âme pleine ou en métal, condamnation par serrure, finition peinture.
 Eclairage par hublot commandé par interrupteur temporisé.
 ```
-4.5.2. Buanderie collective
+#### 4.5.2. Buanderie collective
 
 ```
 Néant.
 ```
-4.5.3. Séchoir collectif
+#### 4.5.3. Séchoir collectif
 
 ```
 Néant.
 ```
-4.5.4. Locaux de rangement et d’entretien
+#### 4.5.4. Locaux de rangement et d’entretien
 
 ```
 Néant.
 ```
-4.5.5. Locaux sanitaires
+#### 4.5.5. Locaux sanitaires
 
 ```
 Néant.
@@ -1140,19 +1140,19 @@ Néant.
 ```
 
 
-4.6.1. Salle de bricolage
+#### 4.6.1. Salle de bricolage
 
 ```
 Néant.
 ```
-4.6.2. Salle de jeux et de réunions
+#### 4.6.2. Salle de jeux et de réunions
 
 ```
 Néant.
 ```
 ### 4.7. LOCAUX TECHNIQUES
 
-4.7.1. Local de réception des ordures ménagères
+#### 4.7.1. Local de réception des ordures ménagères
 
 ```
 Locaux poubelles situés au rez-de-chaussée.
@@ -1162,7 +1162,7 @@ Porte d’accès en bois à âme pleine ou en métal, condamnation par serrure, 
 Eclairage par hublot étanche commandé par interrupteur temporisé.
 Robinet de puisage et siphon de sol.
 ```
-4.7.2. Chaufferie
+#### 4.7.2. Chaufferie
 
 ```
 Pour les logements des cages B et C uniquement.
@@ -1174,27 +1174,27 @@ Sous-face de plafond en béton, finition peinture vinylique.
 Porte d’accès en bois à âme pleine ou en métal avec serrure sur organigramme et barre anti-panique, équipée d’un ferme porte, finition peinture.
 Eclairage par hublot commandé par interrupteur temporisé.
 ```
-4.7.3. Sous-station de chauffage
+#### 4.7.3. Sous-station de chauffage
 
 ```
 Néant.
 ```
-4.7.4. Local des surpresseurs
+#### 4.7.4. Local des surpresseurs
 
 ```
 Néant.
 ```
-4.7.5. Local transformateur ENEDIS
+#### 4.7.5. Local transformateur ENEDIS
 
 ```
 Local situé à l’intérieur de l’opération, répondant aux exigences ENEDIS.
 ```
-4.7.6. Local machinerie d’ascenseur
+#### 4.7.6. Local machinerie d’ascenseur
 
 ```
 Machinerie « embarquée », dans la gaine ascenseur.
 ```
-4.7.7. Local ventilation mécanique
+#### 4.7.7. Local ventilation mécanique
 
 ```
 Locaux situés en combles.
@@ -1208,7 +1208,7 @@ Trappe d’accès depuis le palier inférieur en bois à âme pleine ou en méta
 ```
 Eclairage par hublot commandé par interrupteur temporisé.
 ```
-4.7.8. Locaux techniques divers
+#### 4.7.8. Locaux techniques divers
 
 ```
 Locaux eau, TGBT, fibre et divers situés au sous-sol.
@@ -1224,12 +1224,12 @@ Eclairage par hublot commandé par interrupteur temporisé.
 ```
 Néant.
 ```
-4.8.1. Composition du local
+#### 4.8.1. Composition du local
 
 ```
 Néant.
 ```
-4.8.2. Equipements divers
+#### 4.8.2. Equipements divers
 
 ```
 Néant.
@@ -1254,7 +1254,7 @@ Appel de l’ascenseur au sous-sol et accès au sous-sol depuis la cabine par di
 ```
 Pour les logements des cages B et C uniquement.
 ```
-5.2.1. Equipement thermique de chauffage
+#### 5.2.1. Equipement thermique de chauffage
 
 5.2.1.1. Production de chaleur
 
@@ -1284,7 +1284,7 @@ Situées dans les gaines palières à partir de la chaudière collective, un pre
 d’un compteur d’énergie distribue le chauffage par une canalisation en acier calorifugée.
 A chaque étage, un piquage sur la colonne chauffage permettra d’alimenter chaque logement avec compteur individuel suivant offre VIGICONSO de PROXISERVE (sauf pour les logements de la cage A).
 ```
-5.2.2. Service d’eau chaude
+#### 5.2.2. Service d’eau chaude
 
 5.2.2.1. Production d’eau chaude
 
@@ -1319,13 +1319,13 @@ A chaque étage, un piquage sur la colonne eau chaude sanitaire permettra d’al
 ```
 ### 5.3. TELECOMMUNICATIONS
 
-5.3.1. Téléphone
+#### 5.3.1. Téléphone
 
 ```
 Suivant localisation, raccordement au réseau cuivre ou fibre optique (opérateurs commerciaux non définis).
 Depuis le réseau public, distribution dans les gaines techniques palières jusqu’au DTIO de chaque logement situé dans le tableau d’abonné.
 ```
-5.3.2. Antennes TV et radio
+#### 5.3.2. Antennes TV et radio
 
 ```
 Antenne hertzienne collective compatible à la réception de la TNT (décodeur à charge de l’acquéreur).
@@ -1343,26 +1343,26 @@ Idem article 1.6.2. et 3.2.5.
 ```
 ### 5.6. ALIMENTATION EN EAU
 
-5.6.1. Comptages généraux
+#### 5.6.1. Comptages généraux
 
 ```
 Depuis le branchement d’eau sur la rue, comptage d’eau froide dans local technique ou citerneau extérieur, selon prescriptions de la Ville.
 ```
-5.6.2. Surpresseurs, réducteurs et régulateurs de pression, traitement de l’eau
+#### 5.6.2. Surpresseurs, réducteurs et régulateurs de pression, traitement de l’eau
 
 ```
 Surpresseur, réducteur ou régulateur de pression si nécessaire.
 Un détendeur général est prévu en sortie de comptage.
 Les circuits seront désinfectés conformément à la réglementation en vigueur.
 ```
-5.6.3. Colonnes montantes
+#### 5.6.3. Colonnes montantes
 
 ```
 En acier galvanisé ou PVC pression, dans les gaines techniques palières.
 ```
 
 
-5.6.4. Branchements particuliers
+#### 5.6.4. Branchements particuliers
 
 ```
 Sur colonnes montantes situées dans les gaines techniques palières, avec robinet de barrage et compteur individuel suivant offre VIGICONSO de PROXISERVE.
@@ -1372,34 +1372,34 @@ Sur colonnes montantes situées dans les gaines techniques palières, avec robin
 ```
 Depuis le branchement gaz sur la rue, comptage dans un coffret en limite de propriété, pour alimenter la chaufferie et les chaudières individuelles.
 ```
-5.7.1. Colonnes montantes
+#### 5.7.1. Colonnes montantes
 
 ```
 Néant.
 ```
-5.7.2. Branchement et comptages particuliers
+#### 5.7.2. Branchement et comptages particuliers
 
 ```
 Néant.
 ```
-5.7.3. Comptages des services généraux
+#### 5.7.3. Comptages des services généraux
 
 ```
 Néant.
 ```
 ### 5.8. ALIMENTATION EN ELECTRICITE
 
-5.8.1. Comptages des services généraux
+#### 5.8.1. Comptages des services généraux
 
 ```
 Dans gaine technique palière ou local technique spécifique suivant exigences ENEDIS.
 ```
-5.8.2. Colonnes montantes
+#### 5.8.2. Colonnes montantes
 
 ```
 Dans gaines techniques palières.
 ```
-5.8.3. Branchements et comptages particuliers
+#### 5.8.3. Branchements et comptages particuliers
 
 ```
 Compteurs électriques installés par le concessionnaire dans les tableaux d’abonnés des logements, avec un système de téléreport.
@@ -1413,25 +1413,25 @@ Alimentation du disjoncteur situé dans chaque logement.
 
 ### 6.1. VOIRIE ET PARKINGS
 
-6.1.1. Voirie d’accès
+#### 6.1.1. Voirie d’accès
 
 ```
 Accès depuis la voirie existante par la rampe du lot 06-2.
 ```
-6.1.2. Trottoirs
+#### 6.1.2. Trottoirs
 
 ```
 Trottoirs existants conservés.
 Si nécessaire, trottoirs recréés en béton désactivé ou en enrobé noir, suivant plan de masse et/ou imposition de la mairie.
 ```
-6.1.3. Parkings visiteurs
+#### 6.1.3. Parkings visiteurs
 
 ```
 Néant.
 ```
 ### 6.2. CIRCULATIONS DES PIETONS
 
-6.2.1. Chemins d’accès aux entrées, emmarchements, rampes, cours
+#### 6.2.1. Chemins d’accès aux entrées, emmarchements, rampes, cours
 
 ```
 Béton désactivé ou enrobé noir ou dalles gravillonnées ou pavés, suivant plan de masse.
@@ -1441,33 +1441,33 @@ Béton désactivé ou enrobé noir ou dalles gravillonnées ou pavés, suivant p
 ```
 Les modelés de terrains sont liés à la pente naturelle du site initial. Lorsqu’un rattrapage de niveau entre plusieurs lots est nécessaire, celui-ci se fera par l’intermédiaire, soit de talus, soit d’éléments de soutènement.
 ```
-6.3.1. Aires de repos
+#### 6.3.1. Aires de repos
 
 ```
 Néant.
 ```
-6.3.2. Plantations d’arbres, arbustes, fleurs
+#### 6.3.2. Plantations d’arbres, arbustes, fleurs
 
 ```
 Pendant la période favorable, plantation d’arbres de haute tige, d’arbustes et de haies vives, conformément au plan du Permis de Construire.
 Plantation de haies vives en limite des jardins à usage privatif, suivant plans.
 ```
-6.3.3. Engazonnement
+#### 6.3.3. Engazonnement
 
 ```
 Engazonnement, suivant saison, des espaces plantés, communs et à usage privatif.
 ```
-6.3.4. Arrosage
+#### 6.3.4. Arrosage
 
 ```
 Par robinets de puisage sur les espaces communs.
 ```
-6.3.5. Bassins décoratifs
+#### 6.3.5. Bassins décoratifs
 
 ```
 Néant.
 ```
-6.3.6. Chemins de promenade
+#### 6.3.6. Chemins de promenade
 
 ```
 Néant.
@@ -1479,42 +1479,42 @@ Néant.
 ```
 Néant.
 ```
-6.4.1. Sols
+#### 6.4.1. Sols
 
 ```
 Néant.
 ```
-6.4.2. Equipements
+#### 6.4.2. Equipements
 
 ```
 Néant.
 ```
 ### 6.5. ECLAIRAGE EXTERIEUR
 
-6.5.1. Signalisation de l’entrée de l’immeuble
+#### 6.5.1. Signalisation de l’entrée de l’immeuble
 
 ```
 Appliques décoratives commandées par interrupteur crépusculaire et sur horloge.
 ```
-6.5.2. Eclairage des voiries, espaces verts, jeux et autres
+#### 6.5.2. Eclairage des voiries, espaces verts, jeux et autres
 
 ```
 Néant.
 ```
 ### 6.6. CLOTURES
 
-6.6.1. Sur rue
+#### 6.6.1. Sur rue
 
 ```
 Muret surmonté d’une grille ou grille sur longrine suivant plan de masse.
 Portillon métallique pour accès piétons, commandé par digicode.
 ```
-6.6.2. Avec les propriétés voisines
+#### 6.6.2. Avec les propriétés voisines
 
 ```
 Grillage rigide type Bastion ou équivalent.
 ```
-6.6.3. Entre jardins à usage privatif à rez-de-chaussée
+#### 6.6.3. Entre jardins à usage privatif à rez-de-chaussée
 
 ```
 Grillage et haie végétale.
@@ -1522,51 +1522,51 @@ Pare-vues vitrés dans ossature métallique lorsque la haie végétale ne peut �
 ```
 ### 6.7. RESEAUX DIVERS
 
-6.7.1. Chauffage Urbain
+#### 6.7.1. Chauffage Urbain
 
 ```
 Néant.
 ```
-6.7.2. Gaz
+#### 6.7.2. Gaz
 
 ```
 Depuis le réseau public situé sous la voirie, avec coffret(s) de coupure en limite de propriété.
 ```
-6.7.3. Eau
+#### 6.7.3. Eau
 
 ```
 Branchement sur réseau public sous voirie et alimentation à partir du compteur général.
 ```
-6.7.4. Electricité
+#### 6.7.4. Electricité
 
 ```
 Desserte pour usage tout électrique depuis le poste de transformation, avec coffret(s) de coupure en limite de propriété, suivant exigences ENEDIS.
 ```
 
 
-6.7.5. Postes d’incendie, extincteurs
+#### 6.7.5. Postes d’incendie, extincteurs
 
 ```
 Extincteurs dans le parc de stationnement suivant réglementation en vigueur.
 Poteau ou bouche incendie normalisé sur voie publique suivant nécessité.
 Un bac à sable installé à chaque niveau de parking, équipé d’un seau et d’une pelle.
 ```
-6.7.6. Egouts
+#### 6.7.6. Egouts
 
 ```
 Raccordements à l’égout public suivant les prescriptions de la Ville.
 ```
-6.7.7. Epuration des eaux
+#### 6.7.7. Epuration des eaux
 
 ```
 Fosse à hydrocarbures dans le parc de stationnement enterré, avec pompe de relevage si nécessaire.
 ```
-6.7.8. Télécommunications
+#### 6.7.8. Télécommunications
 
 ```
 Raccordement sur réseau public depuis chambre de tirage Télécom.
 ```
-6.7.9. Drainage du terrain
+#### 6.7.9. Drainage du terrain
 
 ```
 Néant.

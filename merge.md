@@ -424,14 +424,14 @@ D’autre part, ce programme sera conforme :
 <div class="result">
 
 
-1.1.1. 挖掘
+#### 1.1.1. 挖掘
 
 
 </div>
 <div class="origin">
 
 
-1.1.1. Fouilles
+#### 1.1.1. Fouilles
 
 
 </div>
@@ -491,14 +491,14 @@ Enlèvement des terres excédentaires.
 <div class="result">
 
 
-1.1.2. 基金会
+#### 1.1.2. 基金会
 
 
 </div>
 <div class="origin">
 
 
-1.1.2. Fondations
+#### 1.1.2. Fondations
 
 
 </div>
@@ -559,14 +559,14 @@ Suivant les résultats de l’étude de sol, il pourra être exécuté un autre 
 <div class="result">
 
 
-1.2.1. 地下室墙
+#### 1.2.1. 地下室墙
 
 
 </div>
 <div class="origin">
 
 
-1.2.1. Murs du sous-sol
+#### 1.2.1. Murs du sous-sol
 
 
 </div>
@@ -646,14 +646,14 @@ Voiles en béton armé d’épaisseur suivant étude de structure, coffrage cour
 <div class="result">
 
 
-1.2.2. 外墙
+#### 1.2.2. 外墙
 
 
 </div>
 <div class="origin">
 
 
-1.2.2. Murs de façades
+#### 1.2.2. Murs de façades
 
 
 </div>
@@ -729,14 +729,14 @@ Complexe isolant, d’épaisseur suivant réglementation en vigueur, associé à
 <div class="result">
 
 
-1.2.3. 山墙墙
+#### 1.2.3. 山墙墙
 
 
 </div>
 <div class="origin">
 
 
-1.2.3. Murs pignons
+#### 1.2.3. Murs pignons
 
 
 </div>
@@ -766,14 +766,14 @@ Idem article 1.2.2.
 <div class="result">
 
 
-1.2.4. 派对墙
+#### 1.2.4. 派对墙
 
 
 </div>
 <div class="origin">
 
 
-1.2.4. Murs mitoyens
+#### 1.2.4. Murs mitoyens
 
 
 </div>
@@ -801,14 +801,14 @@ Idem article 1.2.2.
 <div class="result">
 
 
-1.2.5. 各种外墙（凉廊-烘干机）
+#### 1.2.5. 各种外墙（凉廊-烘干机）
 
 
 </div>
 <div class="origin">
 
 
-1.2.5. Murs extérieurs divers (loggias - séchoirs)
+#### 1.2.5. Murs extérieurs divers (loggias - séchoirs)
 
 
 </div>
@@ -836,14 +836,14 @@ Idem article 1.2.2.
 <div class="result">
 
 
-1.2.6. 处所内的承重墙（分体式）
+#### 1.2.6. 处所内的承重墙（分体式）
 
 
 </div>
 <div class="origin">
 
 
-1.2.6. Murs porteurs à l’intérieur des locaux (refends)
+#### 1.2.6. Murs porteurs à l’intérieur des locaux (refends)
 
 
 </div>
@@ -871,14 +871,14 @@ Voiles en béton armé ou murs en maçonnerie, d’épaisseur suivant étude de 
 <div class="result">
 
 
-1.2.7. 独立的墙壁或隔板
+#### 1.2.7. 独立的墙壁或隔板
 
 
 </div>
 <div class="origin">
 
 
-1.2.7. Murs ou cloisons séparatifs
+#### 1.2.7. Murs ou cloisons séparatifs
 
 
 </div>
@@ -1057,14 +1057,14 @@ Suivant destination, doublages éventuels par complexe isolant thermique ou acou
 <div class="result">
 
 
-1.3.1. 在坚实的地面上铺路
+#### 1.3.1. 在坚实的地面上铺路
 
 
 </div>
 <div class="origin">
 
 
-1.3.1. Dallage sur terre plein
+#### 1.3.1. Dallage sur terre plein
 
 
 </div>
@@ -1172,14 +1172,14 @@ Caniveau en haut de rampe au droit de la porte basculante (dans le lot 06-2).
 <div class="result">
 
 
-1.3.2. 房屋地板
+#### 1.3.2. 房屋地板
 
 
 </div>
 <div class="origin">
 
 
-1.3.2. Planchers des logements
+#### 1.3.2. Planchers des logements
 
 
 </div>
@@ -1409,14 +1409,14 @@ Isolation thermique au droit des locaux chauffés en panneaux de mousse polyuré
 <div class="result">
 
 
-1.3.3. 集体，技术室，入口，流通和暖气室的地板
+#### 1.3.3. 集体，技术室，入口，流通和暖气室的地板
 
 
 </div>
 <div class="origin">
 
 
-1.3.3. Planchers sur locaux collectifs, techniques, entrées, circulations et locaux chauffés
+#### 1.3.3. Planchers sur locaux collectifs, techniques, entrées, circulations et locaux chauffés
 
 
 </div>
@@ -1444,14 +1444,14 @@ Idem article 1.3.2. planchers sur étage courant.
 <div class="result">
 
 
-1.3.4. 未加热或露天场所的地板
+#### 1.3.4. 未加热或露天场所的地板
 
 
 </div>
 <div class="origin">
 
 
-1.3.4. Planchers sur locaux non chauffés ou ouverts
+#### 1.3.4. Planchers sur locaux non chauffés ou ouverts
 
 
 </div>
@@ -1512,14 +1512,14 @@ Isolation par chape thermique ou par projection de laine de roche ou par panneau
 <div class="result">
 
 
-1.4.1. 在主要房间之间
+#### 1.4.1. 在主要房间之间
 
 
 </div>
 <div class="origin">
 
 
-1.4.1. Entre pièces principales
+#### 1.4.1. Entre pièces principales
 
 
 </div>
@@ -1547,14 +1547,14 @@ Plaques de plâtre associées à une ossature métallique avec incorporation de 
 <div class="result">
 
 
-1.4.2. 在主要零件和维修零件之间
+#### 1.4.2. 在主要零件和维修零件之间
 
 
 </div>
 <div class="origin">
 
 
-1.4.2. Entre pièces principales et pièces de service
+#### 1.4.2. Entre pièces principales et pièces de service
 
 
 </div>
@@ -1599,14 +1599,14 @@ Idem article 1.4.1.
 <div class="result">
 
 
-1.5.1. 楼梯
+#### 1.5.1. 楼梯
 
 
 </div>
 <div class="origin">
 
 
-1.5.1. Escaliers
+#### 1.5.1. Escaliers
 
 
 </div>
@@ -1634,14 +1634,14 @@ Escaliers des parties communes en béton armé préfabriqué ou coulé en place.
 <div class="result">
 
 
-1.5.2. 紧急楼梯
+#### 1.5.2. 紧急楼梯
 
 
 </div>
 <div class="origin">
 
 
-1.5.2. Escaliers de secours
+#### 1.5.2. Escaliers de secours
 
 
 </div>
@@ -1686,14 +1686,14 @@ Idem article 1.5.1.
 <div class="result">
 
 
-1.6.1. 建筑物房舍的烟囱
+#### 1.6.1. 建筑物房舍的烟囱
 
 
 </div>
 <div class="origin">
 
 
-1.6.1. Conduits de fumée des locaux de l’immeuble
+#### 1.6.1. Conduits de fumée des locaux de l’immeuble
 
 
 </div>
@@ -1723,14 +1723,14 @@ Néant.
 <div class="result">
 
 
-1.6.2. 室内通风管道
+#### 1.6.2. 室内通风管道
 
 
 </div>
 <div class="origin">
 
 
-1.6.2. Conduits de ventilation des locaux
+#### 1.6.2. Conduits de ventilation des locaux
 
 
 </div>
@@ -1790,14 +1790,14 @@ Ventilation mécanique des locaux poubelles à l’intérieur de l’immeuble.
 <div class="result">
 
 
-1.6.3. 新鲜空气管道
+#### 1.6.3. 新鲜空气管道
 
 
 </div>
 <div class="origin">
 
 
-1.6.3. Conduits d’air frais
+#### 1.6.3. Conduits d’air frais
 
 
 </div>
@@ -1841,14 +1841,14 @@ Amenée d’air frais naturel dans le parc de stationnement fermé et dans les l
 <div class="result">
 
 
-1.6.4. 锅炉烟管
+#### 1.6.4. 锅炉烟管
 
 
 </div>
 <div class="origin">
 
 
-1.6.4. Conduits de fumée de chaufferie
+#### 1.6.4. Conduits de fumée de chaufferie
 
 
 </div>
@@ -1892,14 +1892,14 @@ Conduit métallique dans gaine en béton ou boisseaux traversant les logements p
 <div class="result">
 
 
-1.6.5. 锅炉房高通风
+#### 1.6.5. 锅炉房高通风
 
 
 </div>
 <div class="origin">
 
 
-1.6.5. Ventilation haute de chaufferie
+#### 1.6.5. Ventilation haute de chaufferie
 
 
 </div>
@@ -1995,14 +1995,14 @@ Descentes extérieures en zinc.
 <div class="result">
 
 
-1.7.2. 废水落下
+#### 1.7.2. 废水落下
 
 
 </div>
 <div class="origin">
 
 
-1.7.2. Chutes d’eaux usées
+#### 1.7.2. Chutes d’eaux usées
 
 
 </div>
@@ -2030,14 +2030,14 @@ Descentes intérieures en PVC.
 <div class="result">
 
 
-1.7.3. 地下室的管道
+#### 1.7.3. 地下室的管道
 
 
 </div>
 <div class="origin">
 
 
-1.7.3. Canalisations en sous-sol
+#### 1.7.3. Canalisations en sous-sol
 
 
 </div>
@@ -2065,14 +2065,14 @@ Canalisations en PVC, des divers réseaux, enterrées, en sous-face du plancher 
 <div class="result">
 
 
-1.7.4. 下水道连接
+#### 1.7.4. 下水道连接
 
 
 </div>
 <div class="origin">
 
 
-1.7.4. Branchements aux égouts
+#### 1.7.4. Branchements aux égouts
 
 
 </div>
@@ -2117,14 +2117,14 @@ Evacuations sur réseau urbain suivants instructions des Services Techniques de 
 <div class="result">
 
 
-1.8.1. 框架，盖子和配件
+#### 1.8.1. 框架，盖子和配件
 
 
 </div>
 <div class="origin">
 
 
-1.8.1. Charpente, couverture et accessoires
+#### 1.8.1. Charpente, couverture et accessoires
 
 
 </div>
@@ -2250,14 +2250,14 @@ Local technique sous combles pour recevoir l’installation VMC.
 <div class="result">
 
 
-1.8.2. 密封件及配件
+#### 1.8.2. 密封件及配件
 
 
 </div>
 <div class="origin">
 
 
-1.8.2. Etanchéité et accessoires
+#### 1.8.2. Etanchéité et accessoires
 
 
 </div>
@@ -2333,14 +2333,14 @@ Protection des terrasses inaccessibles par gravillons ou système auto-protégé
 <div class="result">
 
 
-1.8.3. 烟囱，通风装置和各种导管的堆栈
+#### 1.8.3. 烟囱，通风装置和各种导管的堆栈
 
 
 </div>
 <div class="origin">
 
 
-1.8.3. Souches de cheminées, ventilations et conduits divers
+#### 1.8.3. Souches de cheminées, ventilations et conduits divers
 
 
 </div>
@@ -2436,14 +2436,14 @@ Souche métallique ou maçonnée pour la ventilation haute du parking.
 <div class="result">
 
 
-2.1.1. 主房间的地板和底座
+#### 2.1.1. 主房间的地板和底座
 
 
 </div>
 <div class="origin">
 
 
-2.1.1. Sols et plinthes des pièces principales
+#### 2.1.1. Sols et plinthes des pièces principales
 
 
 </div>
@@ -2487,14 +2487,14 @@ Plinthes en médium finition usine de couleur blanche, de 100 mm de hauteur.
 <div class="result">
 
 
-2.1.2. 服务室的地板和底座（厨房，浴室，淋浴室和卫生间）
+#### 2.1.2. 服务室的地板和底座（厨房，浴室，淋浴室和卫生间）
 
 
 </div>
 <div class="origin">
 
 
-2.1.2. Sols et plinthes des pièces de service (Cuisine, salle de bains, salle d’eau et WC)
+#### 2.1.2. Sols et plinthes des pièces de service (Cuisine, salle de bains, salle d’eau et WC)
 
 
 </div>
@@ -2570,14 +2570,14 @@ Plinthes assorties au carrelage.
 <div class="result">
 
 
-2.1.3. 入口和清除地板和底座
+#### 2.1.3. 入口和清除地板和底座
 
 
 </div>
 <div class="origin">
 
 
-2.1.3. Sols et plinthes des entrées et dégagements
+#### 2.1.3. Sols et plinthes des entrées et dégagements
 
 
 </div>
@@ -2755,14 +2755,14 @@ Une différence de niveaux pourra exister entre l’intérieur des logements et 
 <div class="result">
 
 
-2.2.1. 服务室的墙壁装饰（浴室和化妆间）
+#### 2.2.1. 服务室的墙壁装饰（浴室和化妆间）
 
 
 </div>
 <div class="origin">
 
 
-2.2.1. Revêtements muraux des pièces de service (Salle de bain et salle d’eau)
+#### 2.2.1. Revêtements muraux des pièces de service (Salle de bain et salle d’eau)
 
 
 </div>
@@ -2822,14 +2822,14 @@ Tablier de baignoire en carreaux de plâtre ou panneau extrudé revêtus de faï
 <div class="result">
 
 
-2.2.2. 其他房间的墙面材料
+#### 2.2.2. 其他房间的墙面材料
 
 
 </div>
 <div class="origin">
 
 
-2.2.2. Revêtements muraux dans les autres pièces
+#### 2.2.2. Revêtements muraux dans les autres pièces
 
 
 </div>
@@ -2874,14 +2874,14 @@ Néant.
 <div class="result">
 
 
-2.3.1. 室内房间天花板
+#### 2.3.1. 室内房间天花板
 
 
 </div>
 <div class="origin">
 
 
-2.3.1. Plafonds des pièces intérieures
+#### 2.3.1. Plafonds des pièces intérieures
 
 
 </div>
@@ -2927,14 +2927,14 @@ Localement, pour masquer des dévoiements de canalisations, certaines pièces in
 <div class="result">
 
 
-2.3.2. 露天干燥室天花板
+#### 2.3.2. 露天干燥室天花板
 
 
 </div>
 <div class="origin">
 
 
-2.3.2. Plafonds des séchoirs à l’air libre
+#### 2.3.2. Plafonds des séchoirs à l’air libre
 
 
 </div>
@@ -2962,14 +2962,14 @@ Sans objet.
 <div class="result">
 
 
-2.3.3. 凉廊天花板
+#### 2.3.3. 凉廊天花板
 
 
 </div>
 <div class="origin">
 
 
-2.3.3. Plafonds des loggias
+#### 2.3.3. Plafonds des loggias
 
 
 </div>
@@ -2997,14 +2997,14 @@ Dalle en béton armé destinée à recevoir une peinture, teinte au choix de l�
 <div class="result">
 
 
-2.3.4. 阳台底面
+#### 2.3.4. 阳台底面
 
 
 </div>
 <div class="origin">
 
 
-2.3.4. Sous-face des balcons
+#### 2.3.4. Sous-face des balcons
 
 
 </div>
@@ -3049,14 +3049,14 @@ Dalle en béton armé, destinée à recevoir une peinture, teinte au choix de l�
 <div class="result">
 
 
-2.4.1. 主房间的外部细木工
+#### 2.4.1. 主房间的外部细木工
 
 
 </div>
 <div class="origin">
 
 
-2.4.1. Menuiseries extérieures des pièces principales
+#### 2.4.1. Menuiseries extérieures des pièces principales
 
 
 </div>
@@ -3164,14 +3164,14 @@ Les menuiseries des jardins d’hiver seront traitées en acier ou aluminium.
 <div class="result">
 
 
-2.4.2. 服务室的外部细木工
+#### 2.4.2. 服务室的外部细木工
 
 
 </div>
 <div class="origin">
 
 
-2.4.2. Menuiseries extérieures des pièces de service
+#### 2.4.2. Menuiseries extérieures des pièces de service
 
 
 </div>
@@ -3233,14 +3233,14 @@ Idem article 2.4.1.
 <div class="result">
 
 
-2.5.1. 主房间（客厅和卧室）
+#### 2.5.1. 主房间（客厅和卧室）
 
 
 </div>
 <div class="origin">
 
 
-2.5.1. Pièces principales (Séjour et chambres)
+#### 2.5.1. Pièces principales (Séjour et chambres)
 
 
 </div>
@@ -3300,14 +3300,14 @@ Suivant plans, certaines occultations seront réalisées par des volets battants
 <div class="result">
 
 
-2.5.2. 服务件（仅限厨房）
+#### 2.5.2. 服务件（仅限厨房）
 
 
 </div>
 <div class="origin">
 
 
-2.5.2. Pièces de service (Cuisine uniquement)
+#### 2.5.2. Pièces de service (Cuisine uniquement)
 
 
 </div>
@@ -3368,14 +3368,14 @@ Les salles de bains et salles d’eau n’auront pas d’occultation.
 <div class="result">
 
 
-2.6.1. 框架和框架
+#### 2.6.1. 框架和框架
 
 
 </div>
 <div class="origin">
 
 
-2.6.1. Huisseries et bâtis
+#### 2.6.1. Huisseries et bâtis
 
 
 </div>
@@ -3419,14 +3419,14 @@ Bâtis en bois ou métalliques pour les trappes de visite des gaines techniques.
 <div class="result">
 
 
-2.6.2. 内门
+#### 2.6.2. 内门
 
 
 </div>
 <div class="origin">
 
 
-2.6.2. Portes intérieures
+#### 2.6.2. Portes intérieures
 
 
 </div>
@@ -3538,14 +3538,14 @@ Butées de portes.
 <div class="result">
 
 
-2.6.3. 细木工板
+#### 2.6.3. 细木工板
 
 
 </div>
 <div class="origin">
 
 
-2.6.3. Impostes en menuiseries
+#### 2.6.3. Impostes en menuiseries
 
 
 </div>
@@ -3573,14 +3573,14 @@ Néant.
 <div class="result">
 
 
-2.6.4. 层门
+#### 2.6.4. 层门
 
 
 </div>
 <div class="origin">
 
 
-2.6.4. Portes palières
+#### 2.6.4. Portes palières
 
 
 </div>
@@ -3720,14 +3720,14 @@ Butée de porte.
 <div class="result">
 
 
-2.6.5. 壁橱门
+#### 2.6.5. 壁橱门
 
 
 </div>
 <div class="origin">
 
 
-2.6.5. Portes de placards
+#### 2.6.5. Portes de placards
 
 
 </div>
@@ -3771,14 +3771,14 @@ Pour une largeur de placard inférieure ou égale à 100 cm, porte pivotante, to
 <div class="result">
 
 
-2.6.6. 储藏室门（更衣室，储藏室）
+#### 2.6.6. 储藏室门（更衣室，储藏室）
 
 
 </div>
 <div class="origin">
 
 
-2.6.6. Portes de locaux de rangements (dressings, celliers)
+#### 2.6.6. Portes de locaux de rangements (dressings, celliers)
 
 
 </div>
@@ -3806,14 +3806,14 @@ Idem article 2.6.2.
 <div class="result">
 
 
-2.6.7. 线条和覆盖物
+#### 2.6.7. 线条和覆盖物
 
 
 </div>
 <div class="origin">
 
 
-2.6.7. Moulures et habillages
+#### 2.6.7. Moulures et habillages
 
 
 </div>
@@ -3858,14 +3858,14 @@ Néant.
 <div class="result">
 
 
-2.7.1. 栏杆和扶手
+#### 2.7.1. 栏杆和扶手
 
 
 </div>
 <div class="origin">
 
 
-2.7.1. Garde-corps et barres d’appui
+#### 2.7.1. Garde-corps et barres d’appui
 
 
 </div>
@@ -3909,14 +3909,14 @@ Mains-courantes et garde-corps métalliques peints sur escaliers des parties com
 <div class="result">
 
 
-2.7.2. 浆果保护网
+#### 2.7.2. 浆果保护网
 
 
 </div>
 <div class="origin">
 
 
-2.7.2. Grilles de protection des baies
+#### 2.7.2. Grilles de protection des baies
 
 
 </div>
@@ -3944,14 +3944,14 @@ Néant.
 <div class="result">
 
 
-2.7.3. 杂项工程
+#### 2.7.3. 杂项工程
 
 
 </div>
 <div class="origin">
 
 
-2.7.3. Ouvrages divers
+#### 2.7.3. Ouvrages divers
 
 
 </div>
@@ -3998,14 +3998,14 @@ Pare-vues sur les balcons et terrasses accessibles suivant plans, vitrés dans o
 <div class="result">
 
 
-2.8.1. 外墙涂料和清漆
+#### 2.8.1. 外墙涂料和清漆
 
 
 </div>
 <div class="origin">
 
 
-2.8.1. Peintures extérieures et vernis
+#### 2.8.1. Peintures extérieures et vernis
 
 
 </div>
@@ -4203,14 +4203,14 @@ Deux couches de peinture pour extérieur, teinte au choix de l’Architecte.
 <div class="result">
 
 
-2.8.2. 室内涂料
+#### 2.8.2. 室内涂料
 
 
 </div>
 <div class="origin">
 
 
-2.8.2. Peintures intérieures
+#### 2.8.2. Peintures intérieures
 
 
 </div>
@@ -4408,14 +4408,14 @@ Deux couches de peinture acrylique blanche satinée sur parties apparentes des c
 <div class="result">
 
 
-2.8.3. 墙纸
+#### 2.8.3. 墙纸
 
 
 </div>
 <div class="origin">
 
 
-2.8.3. Papiers peints
+#### 2.8.3. Papiers peints
 
 
 </div>
@@ -4443,14 +4443,14 @@ Néant.
 <div class="result">
 
 
-2.8.4. 窗帘（织物，增塑织物等）
+#### 2.8.4. 窗帘（织物，增塑织物等）
 
 
 </div>
 <div class="origin">
 
 
-2.8.4. Tentures (tissus, toiles plastifiées, etc.)
+#### 2.8.4. Tentures (tissus, toiles plastifiées, etc.)
 
 
 </div>
@@ -4497,14 +4497,14 @@ Néant.
 <div class="result">
 
 
-2.9.1. 家用设备
+#### 2.9.1. 家用设备
 
 
 </div>
 <div class="origin">
 
 
-2.9.1. Equipements ménagers
+#### 2.9.1. Equipements ménagers
 
 
 </div>
@@ -4718,14 +4718,14 @@ Néant.
 <div class="result">
 
 
-2.9.2. 卫生和水暖设备
+#### 2.9.2. 卫生和水暖设备
 
 
 </div>
 <div class="origin">
 
 
-2.9.2. Equipements sanitaires et plomberie
+#### 2.9.2. Equipements sanitaires et plomberie
 
 
 </div>
@@ -5318,14 +5318,14 @@ Robinet de puisage pour les jardins privatifs au rez-de-chaussée et pour les te
 <div class="result">
 
 
-2.9.3. 电气设备
+#### 2.9.3. 电气设备
 
 
 </div>
 <div class="origin">
 
 
-2.9.3. Equipements électriques
+#### 2.9.3. Equipements électriques
 
 
 </div>
@@ -6097,14 +6097,14 @@ Sonnette de marque LEGRAND ou équivalent.
 <div class="result">
 
 
-2.9.4. 暖气，壁炉，通风
+#### 2.9.4. 暖气，壁炉，通风
 
 
 </div>
 <div class="origin">
 
 
-2.9.4. Chauffage, cheminées, ventilations
+#### 2.9.4. Chauffage, cheminées, ventilations
 
 
 </div>
@@ -6412,14 +6412,14 @@ Bouches de ventilation en façades ou dans menuiseries extérieures des pièces 
 <div class="result">
 
 
-2.9.5. 橱柜和储藏室的室内设备
+#### 2.9.5. 橱柜和储藏室的室内设备
 
 
 </div>
 <div class="origin">
 
 
-2.9.5. Equipement Intérieur des placards et pièces de rangement
+#### 2.9.5. Equipement Intérieur des placards et pièces de rangement
 
 
 </div>
@@ -6499,14 +6499,14 @@ Néant.
 <div class="result">
 
 
-2.9.6. 电讯设备
+#### 2.9.6. 电讯设备
 
 
 </div>
 <div class="origin">
 
 
-2.9.6. Equipements de télécommunications
+#### 2.9.6. Equipements de télécommunications
 
 
 </div>
@@ -6687,14 +6687,14 @@ Commande actionnant la seconde porte du hall depuis le combiné vidéophone situ
 <div class="result">
 
 
-2.9.7. 其他装备
+#### 2.9.7. 其他装备
 
 
 </div>
 <div class="origin">
 
 
-2.9.7. Autres équipements
+#### 2.9.7. Autres équipements
 
 
 </div>
@@ -6896,14 +6896,14 @@ Néant.
 <div class="result">
 
 
-3.1.1. 墙壁和隔断
+#### 3.1.1. 墙壁和隔断
 
 
 </div>
 <div class="origin">
 
 
-3.1.1. Murs et cloisons
+#### 3.1.1. Murs et cloisons
 
 
 </div>
@@ -6931,14 +6931,14 @@ Néant.
 <div class="result">
 
 
-3.1.2. 天花板
+#### 3.1.2. 天花板
 
 
 </div>
 <div class="origin">
 
 
-3.1.2. Plafonds
+#### 3.1.2. Plafonds
 
 
 </div>
@@ -6966,14 +6966,14 @@ Néant.
 <div class="result">
 
 
-3.1.3. 土壤
+#### 3.1.3. 土壤
 
 
 </div>
 <div class="origin">
 
 
-3.1.3. Sols
+#### 3.1.3. Sols
 
 
 </div>
@@ -7001,14 +7001,14 @@ Néant.
 <div class="result">
 
 
-3.1.4. 检修门
+#### 3.1.4. 检修门
 
 
 </div>
 <div class="origin">
 
 
-3.1.4. Portes d’accès
+#### 3.1.4. Portes d’accès
 
 
 </div>
@@ -7036,14 +7036,14 @@ Néant.
 <div class="result">
 
 
-3.1.5. 通风
+#### 3.1.5. 通风
 
 
 </div>
 <div class="origin">
 
 
-3.1.5. Ventilation
+#### 3.1.5. Ventilation
 
 
 </div>
@@ -7071,14 +7071,14 @@ Néant.
 <div class="result">
 
 
-3.1.6. 电气设备
+#### 3.1.6. 电气设备
 
 
 </div>
 <div class="origin">
 
 
-3.1.6. Equipement électrique
+#### 3.1.6. Equipement électrique
 
 
 </div>
@@ -7157,14 +7157,14 @@ Le parking est susceptible d’être inondable sur toute ou partie de sa superfi
 <div class="result">
 
 
-3.2.1. 墙壁和隔断
+#### 3.2.1. 墙壁和隔断
 
 
 </div>
 <div class="origin">
 
 
-3.2.1. Murs et cloisons
+#### 3.2.1. Murs et cloisons
 
 
 </div>
@@ -7192,14 +7192,14 @@ Voiles en béton armé ou maçonnerie d’agglomérés, finition peinture vinyli
 <div class="result">
 
 
-3.2.2. 天花板
+#### 3.2.2. 天花板
 
 
 </div>
 <div class="origin">
 
 
-3.2.2. Plafonds
+#### 3.2.2. Plafonds
 
 
 </div>
@@ -7243,14 +7243,14 @@ Certaines zones situées sous des parties habitables recevront une isolation the
 <div class="result">
 
 
-3.2.3. 土壤
+#### 3.2.3. 土壤
 
 
 </div>
 <div class="origin">
 
 
-3.2.3. Sols
+#### 3.2.3. Sols
 
 
 </div>
@@ -7294,14 +7294,14 @@ Numérotage et marquage au sol des emplacements de stationnement en peinture sp�
 <div class="result">
 
 
-3.2.4. 检修门
+#### 3.2.4. 检修门
 
 
 </div>
 <div class="origin">
 
 
-3.2.4. Porte d’accès
+#### 3.2.4. Porte d’accès
 
 
 </div>
@@ -7347,14 +7347,14 @@ Porte extérieure dans le lot 06-2 et porte séparative en limite de propriété
 <div class="result">
 
 
-3.2.5. 通风
+#### 3.2.5. 通风
 
 
 </div>
 <div class="origin">
 
 
-3.2.5. Ventilation
+#### 3.2.5. Ventilation
 
 
 </div>
@@ -7382,14 +7382,14 @@ Ventilation mécanique par gaines avec prises d’air et rejets sur l’extérie
 <div class="result">
 
 
-3.2.6. 电气设备
+#### 3.2.6. 电气设备
 
 
 </div>
 <div class="origin">
 
 
-3.2.6. Equipement électrique
+#### 3.2.6. Equipement électrique
 
 
 </div>
@@ -7484,14 +7484,14 @@ Néant.
 <div class="result">
 
 
-3.3.1. 地面
+#### 3.3.1. 地面
 
 
 </div>
 <div class="origin">
 
 
-3.3.1. Sol
+#### 3.3.1. Sol
 
 
 </div>
@@ -7519,14 +7519,14 @@ Néant.
 <div class="result">
 
 
-3.3.2. 地面边界
+#### 3.3.2. 地面边界
 
 
 </div>
 <div class="origin">
 
 
-3.3.2. Délimitation au sol
+#### 3.3.2. Délimitation au sol
 
 
 </div>
@@ -7554,14 +7554,14 @@ Néant.
 <div class="result">
 
 
-3.3.3. 追踪系统
+#### 3.3.3. 追踪系统
 
 
 </div>
 <div class="origin">
 
 
-3.3.3. Système de repérage
+#### 3.3.3. Système de repérage
 
 
 </div>
@@ -7589,14 +7589,14 @@ Néant.
 <div class="result">
 
 
-3.3.4. 系统谴责访问
+#### 3.3.4. 系统谴责访问
 
 
 </div>
 <div class="origin">
 
 
-3.3.4. Système condamnant l’accès
+#### 3.3.4. Système condamnant l’accès
 
 
 </div>
@@ -7660,14 +7660,14 @@ Néant.
 <div class="result">
 
 
-4.1.1. 土壤
+#### 4.1.1. 土壤
 
 
 </div>
 <div class="origin">
 
 
-4.1.1. Sols
+#### 4.1.1. Sols
 
 
 </div>
@@ -7711,14 +7711,14 @@ Mise en place d’un tapis brosse au droit de la première porte du sas.
 <div class="result">
 
 
-4.1.2. 墙壁
+#### 4.1.2. 墙壁
 
 
 </div>
 <div class="origin">
 
 
-4.1.2. Parois
+#### 4.1.2. Parois
 
 
 </div>
@@ -7746,14 +7746,14 @@ Revêtement projeté, enduit décoratif, peinture, revêtement vinylique ou pann
 <div class="result">
 
 
-4.1.3. 天花板
+#### 4.1.3. 天花板
 
 
 </div>
 <div class="origin">
 
 
-4.1.3. Plafonds
+#### 4.1.3. Plafonds
 
 
 </div>
@@ -7781,14 +7781,14 @@ Faux-plafond en plaques de plâtre avec 2 couches de peinture acrylique, finitio
 <div class="result">
 
 
-4.1.4. 装饰元素
+#### 4.1.4. 装饰元素
 
 
 </div>
 <div class="origin">
 
 
-4.1.4. Eléments de décoration
+#### 4.1.4. Eléments de décoration
 
 
 </div>
@@ -7816,14 +7816,14 @@ Néant.
 <div class="result">
 
 
-4.1.5. 检修门和锁系统，呼叫建筑居民
+#### 4.1.5. 检修门和锁系统，呼叫建筑居民
 
 
 </div>
 <div class="origin">
 
 
-4.1.5. Portes d’accès et système de fermeture, appel des occupants de l’immeuble
+#### 4.1.5. Portes d’accès et système de fermeture, appel des occupants de l’immeuble
 
 
 </div>
@@ -7867,14 +7867,14 @@ Commande par digicode, et badge de proximité type Vigik pour la porte extérieu
 <div class="result">
 
 
-4.1.6. 邮件和包裹盒
+#### 4.1.6. 邮件和包裹盒
 
 
 </div>
 <div class="origin">
 
 
-4.1.6. Boîte aux lettres et à paquets
+#### 4.1.6. Boîte aux lettres et à paquets
 
 
 </div>
@@ -7918,14 +7918,14 @@ Boites aux lettres des cages A et C dans le hall commun de la cage C.
 <div class="result">
 
 
-4.1.7. 告示板
+#### 4.1.7. 告示板
 
 
 </div>
 <div class="origin">
 
 
-4.1.7. Tableau d’affichage
+#### 4.1.7. Tableau d’affichage
 
 
 </div>
@@ -7953,14 +7953,14 @@ A proximité de l’ensemble de boîtes aux lettres.
 <div class="result">
 
 
-4.1.8. 加热
+#### 4.1.8. 加热
 
 
 </div>
 <div class="origin">
 
 
-4.1.8. Chauffage
+#### 4.1.8. Chauffage
 
 
 </div>
@@ -7988,14 +7988,14 @@ Néant.
 <div class="result">
 
 
-4.1.9. 电气设备
+#### 4.1.9. 电气设备
 
 
 </div>
 <div class="origin">
 
 
-4.1.9. Equipement électrique
+#### 4.1.9. Equipement électrique
 
 
 </div>
@@ -8040,14 +8040,14 @@ Spots dans faux plafond et appliques décoratives, commandés par détecteurs de
 <div class="result">
 
 
-4.2.1. 土壤
+#### 4.2.1. 土壤
 
 
 </div>
 <div class="origin">
 
 
-4.2.1. Sols
+#### 4.2.1. Sols
 
 
 </div>
@@ -8091,14 +8091,14 @@ En étages : Moquette collée de type DUO LES BEST de chez BALSAN avec plinthes 
 <div class="result">
 
 
-4.2.2. 墙壁
+#### 4.2.2. 墙壁
 
 
 </div>
 <div class="origin">
 
 
-4.2.2. Murs
+#### 4.2.2. Murs
 
 
 </div>
@@ -8128,14 +8128,14 @@ Revêtement mural décoratif vinylique collé ou peinture.
 <div class="result">
 
 
-4.2.3. 天花板
+#### 4.2.3. 天花板
 
 
 </div>
 <div class="origin">
 
 
-4.2.3. Plafonds
+#### 4.2.3. Plafonds
 
 
 </div>
@@ -8163,14 +8163,14 @@ Peinture acrylique, finition mate.
 <div class="result">
 
 
-4.2.4. 装饰元素
+#### 4.2.4. 装饰元素
 
 
 </div>
 <div class="origin">
 
 
-4.2.4. Eléments de décoration
+#### 4.2.4. Eléments de décoration
 
 
 </div>
@@ -8198,14 +8198,14 @@ Néant.
 <div class="result">
 
 
-4.2.5. 加热
+#### 4.2.5. 加热
 
 
 </div>
 <div class="origin">
 
 
-4.2.5. Chauffage
+#### 4.2.5. Chauffage
 
 
 </div>
@@ -8233,14 +8233,14 @@ Néant.
 <div class="result">
 
 
-4.2.6. 门
+#### 4.2.6. 门
 
 
 </div>
 <div class="origin">
 
 
-4.2.6. Portes
+#### 4.2.6. Portes
 
 
 </div>
@@ -8284,14 +8284,14 @@ Portes de gaines en bois médium peint ou avec un revêtement décoratif.
 <div class="result">
 
 
-4.2.7. 电气设备
+#### 4.2.7. 电气设备
 
 
 </div>
 <div class="origin">
 
 
-4.2.7. Equipement électrique
+#### 4.2.7. Equipement électrique
 
 
 </div>
@@ -8352,14 +8352,14 @@ Une prise de courant « entretien » par niveau située, dans la gaine palière.
 <div class="result">
 
 
-4.3.1. 土壤
+#### 4.3.1. 土壤
 
 
 </div>
 <div class="origin">
 
 
-4.3.1. Sols
+#### 4.3.1. Sols
 
 
 </div>
@@ -8387,14 +8387,14 @@ Sols en béton armé. Finition peinture de sol dans les sas et dégagements.
 <div class="result">
 
 
-4.3.2. 墙壁
+#### 4.3.2. 墙壁
 
 
 </div>
 <div class="origin">
 
 
-4.3.2. Murs
+#### 4.3.2. Murs
 
 
 </div>
@@ -8422,14 +8422,14 @@ En béton ou maçonneries, finition peinture vinylique.
 <div class="result">
 
 
-4.3.3. 天花板
+#### 4.3.3. 天花板
 
 
 </div>
 <div class="origin">
 
 
-4.3.3. Plafonds
+#### 4.3.3. Plafonds
 
 
 </div>
@@ -8457,14 +8457,14 @@ En béton, finition peinture vinylique.
 <div class="result">
 
 
-4.3.4. 检修门
+#### 4.3.4. 检修门
 
 
 </div>
 <div class="origin">
 
 
-4.3.4. Portes d’accès
+#### 4.3.4. Portes d’accès
 
 
 </div>
@@ -8508,14 +8508,14 @@ Les portes d’accès aux escaliers du sous-sol à partir du RDC sont condamnée
 <div class="result">
 
 
-4.3.5. 车辆入口坡道
+#### 4.3.5. 车辆入口坡道
 
 
 </div>
 <div class="origin">
 
 
-4.3.5. Rampes d’accès pour véhicules
+#### 4.3.5. Rampes d’accès pour véhicules
 
 
 </div>
@@ -8543,14 +8543,14 @@ En béton brut, finition balayée.
 <div class="result">
 
 
-4.3.6. 电气设备
+#### 4.3.6. 电气设备
 
 
 </div>
 <div class="origin">
 
 
-4.3.6. Equipement électrique
+#### 4.3.6. Equipement électrique
 
 
 </div>
@@ -8611,14 +8611,14 @@ Eclairage de sécurité réglementaire.
 <div class="result">
 
 
-4.4.1. 登陆降落
+#### 4.4.1. 登陆降落
 
 
 </div>
 <div class="origin">
 
 
-4.4.1. Sols des paliers
+#### 4.4.1. Sols des paliers
 
 
 </div>
@@ -8648,14 +8648,14 @@ En béton surfacé, finition peinture de sol.
 <div class="result">
 
 
-4.4.2. 墙壁
+#### 4.4.2. 墙壁
 
 
 </div>
 <div class="origin">
 
 
-4.4.2. Murs
+#### 4.4.2. Murs
 
 
 </div>
@@ -8715,14 +8715,14 @@ En infrastructure : béton ou maçonneries, finition peinture vinylique.
 <div class="result">
 
 
-4.4.3. 天花板
+#### 4.4.3. 天花板
 
 
 </div>
 <div class="origin">
 
 
-4.4.3. Plafonds
+#### 4.4.3. Plafonds
 
 
 </div>
@@ -8782,14 +8782,14 @@ En infrastructure : béton ou maçonneries, finition peinture vinylique.
 <div class="result">
 
 
-4.4.4. 楼梯（台阶，立管）
+#### 4.4.4. 楼梯（台阶，立管）
 
 
 </div>
 <div class="origin">
 
 
-4.4.4. Escaliers (marches, contre-marches)
+#### 4.4.4. Escaliers (marches, contre-marches)
 
 
 </div>
@@ -8865,14 +8865,14 @@ Mains courantes métalliques, finition peinture, teinte au choix de l’Architec
 <div class="result">
 
 
-4.4.5. 暖气，通风
+#### 4.4.5. 暖气，通风
 
 
 </div>
 <div class="origin">
 
 
-4.4.5. Chauffage, ventilation
+#### 4.4.5. Chauffage, ventilation
 
 
 </div>
@@ -8900,14 +8900,14 @@ Néant.
 <div class="result">
 
 
-4.4.6. 灯光
+#### 4.4.6. 灯光
 
 
 </div>
 <div class="origin">
 
 
-4.4.6. Eclairage
+#### 4.4.6. Eclairage
 
 
 </div>
@@ -8952,14 +8952,14 @@ Hublots commandés par boutons poussoirs sur minuterie.
 <div class="result">
 
 
-4.5.1. 自行车车库，婴儿车
+#### 4.5.1. 自行车车库，婴儿车
 
 
 </div>
 <div class="origin">
 
 
-4.5.1. Garages à bicyclettes, voitures d’enfants
+#### 4.5.1. Garages à bicyclettes, voitures d’enfants
 
 
 </div>
@@ -9067,14 +9067,14 @@ Eclairage par hublot commandé par interrupteur temporisé.
 <div class="result">
 
 
-4.5.2. 集体洗衣
+#### 4.5.2. 集体洗衣
 
 
 </div>
 <div class="origin">
 
 
-4.5.2. Buanderie collective
+#### 4.5.2. Buanderie collective
 
 
 </div>
@@ -9102,14 +9102,14 @@ Néant.
 <div class="result">
 
 
-4.5.3. 集体烘干机
+#### 4.5.3. 集体烘干机
 
 
 </div>
 <div class="origin">
 
 
-4.5.3. Séchoir collectif
+#### 4.5.3. Séchoir collectif
 
 
 </div>
@@ -9137,14 +9137,14 @@ Néant.
 <div class="result">
 
 
-4.5.4. 储藏室和维修室
+#### 4.5.4. 储藏室和维修室
 
 
 </div>
 <div class="origin">
 
 
-4.5.4. Locaux de rangement et d’entretien
+#### 4.5.4. Locaux de rangement et d’entretien
 
 
 </div>
@@ -9172,14 +9172,14 @@ Néant.
 <div class="result">
 
 
-4.5.5. 卫生室
+#### 4.5.5. 卫生室
 
 
 </div>
 <div class="origin">
 
 
-4.5.5. Locaux sanitaires
+#### 4.5.5. Locaux sanitaires
 
 
 </div>
@@ -9244,14 +9244,14 @@ Néant.
 <div class="result">
 
 
-4.6.1.  DIY室
+#### 4.6.1.  DIY室
 
 
 </div>
 <div class="origin">
 
 
-4.6.1. Salle de bricolage
+#### 4.6.1. Salle de bricolage
 
 
 </div>
@@ -9279,14 +9279,14 @@ Néant.
 <div class="result">
 
 
-4.6.2. 游戏和会议室
+#### 4.6.2. 游戏和会议室
 
 
 </div>
 <div class="origin">
 
 
-4.6.2. Salle de jeux et de réunions
+#### 4.6.2. Salle de jeux et de réunions
 
 
 </div>
@@ -9331,14 +9331,14 @@ Néant.
 <div class="result">
 
 
-4.7.1. 家庭垃圾接收室
+#### 4.7.1. 家庭垃圾接收室
 
 
 </div>
 <div class="origin">
 
 
-4.7.1. Local de réception des ordures ménagères
+#### 4.7.1. Local de réception des ordures ménagères
 
 
 </div>
@@ -9446,14 +9446,14 @@ Robinet de puisage et siphon de sol.
 <div class="result">
 
 
-4.7.2. 锅炉房
+#### 4.7.2. 锅炉房
 
 
 </div>
 <div class="origin">
 
 
-4.7.2. Chaufferie
+#### 4.7.2. Chaufferie
 
 
 </div>
@@ -9593,14 +9593,14 @@ Eclairage par hublot commandé par interrupteur temporisé.
 <div class="result">
 
 
-4.7.3. 加热变电站
+#### 4.7.3. 加热变电站
 
 
 </div>
 <div class="origin">
 
 
-4.7.3. Sous-station de chauffage
+#### 4.7.3. Sous-station de chauffage
 
 
 </div>
@@ -9628,14 +9628,14 @@ Néant.
 <div class="result">
 
 
-4.7.4. 升压室
+#### 4.7.4. 升压室
 
 
 </div>
 <div class="origin">
 
 
-4.7.4. Local des surpresseurs
+#### 4.7.4. Local des surpresseurs
 
 
 </div>
@@ -9663,14 +9663,14 @@ Néant.
 <div class="result">
 
 
-4.7.5.  ENEDIS变压器室
+#### 4.7.5.  ENEDIS变压器室
 
 
 </div>
 <div class="origin">
 
 
-4.7.5. Local transformateur ENEDIS
+#### 4.7.5. Local transformateur ENEDIS
 
 
 </div>
@@ -9698,14 +9698,14 @@ Local situé à l’intérieur de l’opération, répondant aux exigences ENEDI
 <div class="result">
 
 
-4.7.6. 本地电梯机械
+#### 4.7.6. 本地电梯机械
 
 
 </div>
 <div class="origin">
 
 
-4.7.6. Local machinerie d’ascenseur
+#### 4.7.6. Local machinerie d’ascenseur
 
 
 </div>
@@ -9733,14 +9733,14 @@ Machinerie « embarquée », dans la gaine ascenseur.
 <div class="result">
 
 
-4.7.7. 机械通风室
+#### 4.7.7. 机械通风室
 
 
 </div>
 <div class="origin">
 
 
-4.7.7. Local ventilation mécanique
+#### 4.7.7. Local ventilation mécanique
 
 
 </div>
@@ -9852,14 +9852,14 @@ Eclairage par hublot commandé par interrupteur temporisé.
 <div class="result">
 
 
-4.7.8. 各种技术室
+#### 4.7.8. 各种技术室
 
 
 </div>
 <div class="origin">
 
 
-4.7.8. Locaux techniques divers
+#### 4.7.8. Locaux techniques divers
 
 
 </div>
@@ -10018,14 +10018,14 @@ Néant.
 <div class="result">
 
 
-4.8.1. 房间的组成
+#### 4.8.1. 房间的组成
 
 
 </div>
 <div class="origin">
 
 
-4.8.1. Composition du local
+#### 4.8.1. Composition du local
 
 
 </div>
@@ -10053,14 +10053,14 @@ Néant.
 <div class="result">
 
 
-4.8.2. 杂项设备
+#### 4.8.2. 杂项设备
 
 
 </div>
 <div class="origin">
 
 
-4.8.2. Equipements divers
+#### 4.8.2. Equipements divers
 
 
 </div>
@@ -10273,14 +10273,14 @@ Pour les logements des cages B et C uniquement.
 <div class="result">
 
 
-5.2.1. 热力加热设备
+#### 5.2.1. 热力加热设备
 
 
 </div>
 <div class="origin">
 
 
-5.2.1. Equipement thermique de chauffage
+#### 5.2.1. Equipement thermique de chauffage
 
 
 </div>
@@ -10513,14 +10513,14 @@ A chaque étage, un piquage sur la colonne chauffage permettra d’alimenter cha
 <div class="result">
 
 
-5.2.2. 热水服务
+#### 5.2.2. 热水服务
 
 
 </div>
 <div class="origin">
 
 
-5.2.2. Service d’eau chaude
+#### 5.2.2. Service d’eau chaude
 
 
 </div>
@@ -10773,14 +10773,14 @@ A chaque étage, un piquage sur la colonne eau chaude sanitaire permettra d’al
 <div class="result">
 
 
-5.3.1. 电话
+#### 5.3.1. 电话
 
 
 </div>
 <div class="origin">
 
 
-5.3.1. Téléphone
+#### 5.3.1. Téléphone
 
 
 </div>
@@ -10824,14 +10824,14 @@ Depuis le réseau public, distribution dans les gaines techniques palières jusq
 <div class="result">
 
 
-5.3.2. 电视和广播天线
+#### 5.3.2. 电视和广播天线
 
 
 </div>
 <div class="origin">
 
 
-5.3.2. Antennes TV et radio
+#### 5.3.2. Antennes TV et radio
 
 
 </div>
@@ -10962,14 +10962,14 @@ Idem article 1.6.2. et 3.2.5.
 <div class="result">
 
 
-5.6.1. 一般计数
+#### 5.6.1. 一般计数
 
 
 </div>
 <div class="origin">
 
 
-5.6.1. Comptages généraux
+#### 5.6.1. Comptages généraux
 
 
 </div>
@@ -10997,14 +10997,14 @@ Depuis le branchement d’eau sur la rue, comptage d’eau froide dans local tec
 <div class="result">
 
 
-5.6.2. 增压器，减压器和调节器，水处理
+#### 5.6.2. 增压器，减压器和调节器，水处理
 
 
 </div>
 <div class="origin">
 
 
-5.6.2. Surpresseurs, réducteurs et régulateurs de pression, traitement de l’eau
+#### 5.6.2. Surpresseurs, réducteurs et régulateurs de pression, traitement de l’eau
 
 
 </div>
@@ -11064,14 +11064,14 @@ Les circuits seront désinfectés conformément à la réglementation en vigueur
 <div class="result">
 
 
-5.6.3. 冒口
+#### 5.6.3. 冒口
 
 
 </div>
 <div class="origin">
 
 
-5.6.3. Colonnes montantes
+#### 5.6.3. Colonnes montantes
 
 
 </div>
@@ -11101,14 +11101,14 @@ En acier galvanisé ou PVC pression, dans les gaines techniques palières.
 <div class="result">
 
 
-5.6.4. 特殊连接
+#### 5.6.4. 特殊连接
 
 
 </div>
 <div class="origin">
 
 
-5.6.4. Branchements particuliers
+#### 5.6.4. Branchements particuliers
 
 
 </div>
@@ -11171,14 +11171,14 @@ Depuis le branchement gaz sur la rue, comptage dans un coffret en limite de prop
 <div class="result">
 
 
-5.7.1. 冒口
+#### 5.7.1. 冒口
 
 
 </div>
 <div class="origin">
 
 
-5.7.1. Colonnes montantes
+#### 5.7.1. Colonnes montantes
 
 
 </div>
@@ -11206,14 +11206,14 @@ Néant.
 <div class="result">
 
 
-5.7.2. 连接和特殊计量
+#### 5.7.2. 连接和特殊计量
 
 
 </div>
 <div class="origin">
 
 
-5.7.2. Branchement et comptages particuliers
+#### 5.7.2. Branchement et comptages particuliers
 
 
 </div>
@@ -11241,14 +11241,14 @@ Néant.
 <div class="result">
 
 
-5.7.3. 一般服务数量
+#### 5.7.3. 一般服务数量
 
 
 </div>
 <div class="origin">
 
 
-5.7.3. Comptages des services généraux
+#### 5.7.3. Comptages des services généraux
 
 
 </div>
@@ -11293,14 +11293,14 @@ Néant.
 <div class="result">
 
 
-5.8.1. 一般服务数量
+#### 5.8.1. 一般服务数量
 
 
 </div>
 <div class="origin">
 
 
-5.8.1. Comptages des services généraux
+#### 5.8.1. Comptages des services généraux
 
 
 </div>
@@ -11328,14 +11328,14 @@ Dans gaine technique palière ou local technique spécifique suivant exigences E
 <div class="result">
 
 
-5.8.2. 冒口
+#### 5.8.2. 冒口
 
 
 </div>
 <div class="origin">
 
 
-5.8.2. Colonnes montantes
+#### 5.8.2. Colonnes montantes
 
 
 </div>
@@ -11363,14 +11363,14 @@ Dans gaines techniques palières.
 <div class="result">
 
 
-5.8.3. 特殊连接和计量
+#### 5.8.3. 特殊连接和计量
 
 
 </div>
 <div class="origin">
 
 
-5.8.3. Branchements et comptages particuliers
+#### 5.8.3. Branchements et comptages particuliers
 
 
 </div>
@@ -11467,14 +11467,14 @@ Alimentation du disjoncteur situé dans chaque logement.
 <div class="result">
 
 
-6.1.1. 通路
+#### 6.1.1. 通路
 
 
 </div>
 <div class="origin">
 
 
-6.1.1. Voirie d’accès
+#### 6.1.1. Voirie d’accès
 
 
 </div>
@@ -11502,14 +11502,14 @@ Accès depuis la voirie existante par la rampe du lot 06-2.
 <div class="result">
 
 
-6.1.2. 人行道
+#### 6.1.2. 人行道
 
 
 </div>
 <div class="origin">
 
 
-6.1.2. Trottoirs
+#### 6.1.2. Trottoirs
 
 
 </div>
@@ -11553,14 +11553,14 @@ Si nécessaire, trottoirs recréés en béton désactivé ou en enrobé noir, su
 <div class="result">
 
 
-6.1.3. 访客停车场
+#### 6.1.3. 访客停车场
 
 
 </div>
 <div class="origin">
 
 
-6.1.3. Parkings visiteurs
+#### 6.1.3. Parkings visiteurs
 
 
 </div>
@@ -11605,14 +11605,14 @@ Néant.
 <div class="result">
 
 
-6.2.1. 入口路径，台阶，坡道，庭院
+#### 6.2.1. 入口路径，台阶，坡道，庭院
 
 
 </div>
 <div class="origin">
 
 
-6.2.1. Chemins d’accès aux entrées, emmarchements, rampes, cours
+#### 6.2.1. Chemins d’accès aux entrées, emmarchements, rampes, cours
 
 
 </div>
@@ -11675,14 +11675,14 @@ Les modelés de terrains sont liés à la pente naturelle du site initial. Lorsq
 <div class="result">
 
 
-6.3.1. 休息区
+#### 6.3.1. 休息区
 
 
 </div>
 <div class="origin">
 
 
-6.3.1. Aires de repos
+#### 6.3.1. Aires de repos
 
 
 </div>
@@ -11710,14 +11710,14 @@ Néant.
 <div class="result">
 
 
-6.3.2. 树木，灌木，花卉种植园
+#### 6.3.2. 树木，灌木，花卉种植园
 
 
 </div>
 <div class="origin">
 
 
-6.3.2. Plantations d’arbres, arbustes, fleurs
+#### 6.3.2. Plantations d’arbres, arbustes, fleurs
 
 
 </div>
@@ -11761,14 +11761,14 @@ Plantation de haies vives en limite des jardins à usage privatif, suivant plans
 <div class="result">
 
 
-6.3.3. 植草
+#### 6.3.3. 植草
 
 
 </div>
 <div class="origin">
 
 
-6.3.3. Engazonnement
+#### 6.3.3. Engazonnement
 
 
 </div>
@@ -11796,14 +11796,14 @@ Engazonnement, suivant saison, des espaces plantés, communs et à usage privati
 <div class="result">
 
 
-6.3.4. 喷
+#### 6.3.4. 喷
 
 
 </div>
 <div class="origin">
 
 
-6.3.4. Arrosage
+#### 6.3.4. Arrosage
 
 
 </div>
@@ -11831,14 +11831,14 @@ Par robinets de puisage sur les espaces communs.
 <div class="result">
 
 
-6.3.5. 装饰盆
+#### 6.3.5. 装饰盆
 
 
 </div>
 <div class="origin">
 
 
-6.3.5. Bassins décoratifs
+#### 6.3.5. Bassins décoratifs
 
 
 </div>
@@ -11866,14 +11866,14 @@ Néant.
 <div class="result">
 
 
-6.3.6. 人行道
+#### 6.3.6. 人行道
 
 
 </div>
 <div class="origin">
 
 
-6.3.6. Chemins de promenade
+#### 6.3.6. Chemins de promenade
 
 
 </div>
@@ -11938,14 +11938,14 @@ Néant.
 <div class="result">
 
 
-6.4.1. 土壤
+#### 6.4.1. 土壤
 
 
 </div>
 <div class="origin">
 
 
-6.4.1. Sols
+#### 6.4.1. Sols
 
 
 </div>
@@ -11973,14 +11973,14 @@ Néant.
 <div class="result">
 
 
-6.4.2. 设施
+#### 6.4.2. 设施
 
 
 </div>
 <div class="origin">
 
 
-6.4.2. Equipements
+#### 6.4.2. Equipements
 
 
 </div>
@@ -12025,14 +12025,14 @@ Néant.
 <div class="result">
 
 
-6.5.1. 向建筑物入口发出信号
+#### 6.5.1. 向建筑物入口发出信号
 
 
 </div>
 <div class="origin">
 
 
-6.5.1. Signalisation de l’entrée de l’immeuble
+#### 6.5.1. Signalisation de l’entrée de l’immeuble
 
 
 </div>
@@ -12060,14 +12060,14 @@ Appliques décoratives commandées par interrupteur crépusculaire et sur horlog
 <div class="result">
 
 
-6.5.2. 道路，绿地，游戏等的照明
+#### 6.5.2. 道路，绿地，游戏等的照明
 
 
 </div>
 <div class="origin">
 
 
-6.5.2. Eclairage des voiries, espaces verts, jeux et autres
+#### 6.5.2. Eclairage des voiries, espaces verts, jeux et autres
 
 
 </div>
@@ -12112,14 +12112,14 @@ Néant.
 <div class="result">
 
 
-6.6.1. 在大街上
+#### 6.6.1. 在大街上
 
 
 </div>
 <div class="origin">
 
 
-6.6.1. Sur rue
+#### 6.6.1. Sur rue
 
 
 </div>
@@ -12163,14 +12163,14 @@ Portillon métallique pour accès piétons, commandé par digicode.
 <div class="result">
 
 
-6.6.2. 与邻近物业
+#### 6.6.2. 与邻近物业
 
 
 </div>
 <div class="origin">
 
 
-6.6.2. Avec les propriétés voisines
+#### 6.6.2. Avec les propriétés voisines
 
 
 </div>
@@ -12198,14 +12198,14 @@ Grillage rigide type Bastion ou équivalent.
 <div class="result">
 
 
-6.6.3. 在地下私人花园之间
+#### 6.6.3. 在地下私人花园之间
 
 
 </div>
 <div class="origin">
 
 
-6.6.3. Entre jardins à usage privatif à rez-de-chaussée
+#### 6.6.3. Entre jardins à usage privatif à rez-de-chaussée
 
 
 </div>
@@ -12266,14 +12266,14 @@ Pare-vues vitrés dans ossature métallique lorsque la haie végétale ne peut �
 <div class="result">
 
 
-6.7.1. 区域供热
+#### 6.7.1. 区域供热
 
 
 </div>
 <div class="origin">
 
 
-6.7.1. Chauffage Urbain
+#### 6.7.1. Chauffage Urbain
 
 
 </div>
@@ -12301,14 +12301,14 @@ Néant.
 <div class="result">
 
 
-6.7.2. 气
+#### 6.7.2. 气
 
 
 </div>
 <div class="origin">
 
 
-6.7.2. Gaz
+#### 6.7.2. Gaz
 
 
 </div>
@@ -12336,14 +12336,14 @@ Depuis le réseau public situé sous la voirie, avec coffret(s) de coupure en li
 <div class="result">
 
 
-6.7.3. 水
+#### 6.7.3. 水
 
 
 </div>
 <div class="origin">
 
 
-6.7.3. Eau
+#### 6.7.3. Eau
 
 
 </div>
@@ -12371,14 +12371,14 @@ Branchement sur réseau public sous voirie et alimentation à partir du compteur
 <div class="result">
 
 
-6.7.4. 电力
+#### 6.7.4. 电力
 
 
 </div>
 <div class="origin">
 
 
-6.7.4. Electricité
+#### 6.7.4. Electricité
 
 
 </div>
@@ -12408,14 +12408,14 @@ Desserte pour usage tout électrique depuis le poste de transformation, avec cof
 <div class="result">
 
 
-6.7.5. 消防局，灭火器
+#### 6.7.5. 消防局，灭火器
 
 
 </div>
 <div class="origin">
 
 
-6.7.5. Postes d’incendie, extincteurs
+#### 6.7.5. Postes d’incendie, extincteurs
 
 
 </div>
@@ -12475,14 +12475,14 @@ Un bac à sable installé à chaque niveau de parking, équipé d’un seau et d
 <div class="result">
 
 
-6.7.6. 下水道
+#### 6.7.6. 下水道
 
 
 </div>
 <div class="origin">
 
 
-6.7.6. Egouts
+#### 6.7.6. Egouts
 
 
 </div>
@@ -12510,14 +12510,14 @@ Raccordements à l’égout public suivant les prescriptions de la Ville.
 <div class="result">
 
 
-6.7.7. 水净化
+#### 6.7.7. 水净化
 
 
 </div>
 <div class="origin">
 
 
-6.7.7. Epuration des eaux
+#### 6.7.7. Epuration des eaux
 
 
 </div>
@@ -12545,14 +12545,14 @@ Fosse à hydrocarbures dans le parc de stationnement enterré, avec pompe de rel
 <div class="result">
 
 
-6.7.8. 电信
+#### 6.7.8. 电信
 
 
 </div>
 <div class="origin">
 
 
-6.7.8. Télécommunications
+#### 6.7.8. Télécommunications
 
 
 </div>
@@ -12580,14 +12580,14 @@ Raccordement sur réseau public depuis chambre de tirage Télécom.
 <div class="result">
 
 
-6.7.9. 土地排水
+#### 6.7.9. 土地排水
 
 
 </div>
 <div class="origin">
 
 
-6.7.9. Drainage du terrain
+#### 6.7.9. Drainage du terrain
 
 
 </div>
