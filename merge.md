@@ -1075,30 +1075,14 @@ Suivant destination, doublages éventuels par complexe isolant thermique ou acou
 <div class="result">
 
 
-坚固地面上的钢筋混凝土浮动路面，浮出水面，倒在压实的沙子上
+在坚固地面上的钢筋混凝土浮动路面，浮出水面，倒在压实的沙子上，并夹有旨在防止潮气上升的聚氨脂密封膜。
 
 
 </div>
 <div class="origin">
 
 
-Dallage flottant en béton armé sur terre plein, surfacé, coulé sur forme en sablon compacté
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-插入一层旨在防止潮气上升的聚乙烯密封膜。
-
-
-</div>
-<div class="origin">
-
-
-avec interposition d’un film d’étanchéité en polyane destiné à éviter les remontées d’humidité.
+Dallage flottant en béton armé sur terre plein, surfacé, coulé sur forme en sablon compacté avec interposition d’un film d’étanchéité en polyane destiné à éviter les remontées d’humidité.
 
 
 </div>
@@ -4548,30 +4532,14 @@ Evier en acier inoxydable, avec un bac et un égouttoir, sur meuble en mélamin�
 <div class="result">
 
 
-根据计划，小厨房包括一个带水槽和一个沥水架的不锈钢水槽，两个电烹饪盘，一个集成在三聚氰胺柜中的冰箱。
+根据计划，小厨房包括一个带托盘和沥水器的不锈钢水槽，2个电烹饪盘，一个带门的白色三聚氰胺柜中集成的冰箱。
 
 
 </div>
 <div class="origin">
 
 
-Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-白色带门。
-
-
-</div>
-<div class="origin">
-
-
-blanc avec une porte.
+Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé blanc avec une porte.
 
 
 </div>
@@ -5541,30 +5509,14 @@ Cuisine :
 <div class="result">
 
 
-* 6个10/16 A插座，包括4个在工作台上方的插座，1个用于冰箱的低压插座和1个用于
+* 6个10/16 A插座，包括4个在工作台上方的插座，1个用于冰箱的低压插座和1个靠近开关的插座
 
 
 </div>
 <div class="origin">
 
 
-* 6 prises 10/16 A, dont 4 au-dessus du plan de travail, 1 basse pour le réfrigérateur et 1 à
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-如果访问PMR，则接近开关*
-
-
-</div>
-<div class="origin">
-
-
-proximité de l’interrupteur si accès PMR*
+* 6 prises 10/16 A, dont 4 au-dessus du plan de travail, 1 basse pour le réfrigérateur et 1 à proximité de l’interrupteur si accès PMR*
 
 
 </div>
@@ -5779,30 +5731,14 @@ Séjour :
 <div class="result">
 
 
-* 1个10/16 A插座，每节4m²可居住，至少5个插座，包括1至
+* 每4平方米的居住空间1个10/16 A插座，至少5个插座，如果禁用，则在交换机附近1个
 
 
 </div>
 <div class="origin">
 
 
-* 1 prise 10/16 A par tranche de 4m² habitable avec un minimum de 5 prises dont 1 à
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-如果访问PMR，则接近开关*
-
-
-</div>
-<div class="origin">
-
-
-proximité de l’interrupteur si accès PMR*
+* 1 prise 10/16 A par tranche de 4m² habitable avec un minimum de 5 prises dont 1 à proximité de l’interrupteur si accès PMR*
 
 
 </div>
@@ -6725,30 +6661,14 @@ Escaliers intérieurs des duplex en bois ou en béton revêtu de bois.
 <div class="result">
 
 
-每间公寓都将配备IP网关，以便随后连接到
+每间公寓都将配备IP网关，以便随后连接到互联网盒（未提供）并从智能手机连接到应用程序。
 
 
 </div>
 <div class="origin">
 
 
-Chaque appartement sera équipé d’une passerelle IP permettant le raccordement ultérieur à
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-互联网盒（未提供）并通过智能手机连接到应用程序。
-
-
-</div>
-<div class="origin">
-
-
-une box internet (non fournie) et la connexion à une application depuis un smartphone.
+Chaque appartement sera équipé d’une passerelle IP permettant le raccordement ultérieur à une box internet (non fournie) et la connexion à une application depuis un smartphone.
 
 
 </div>
@@ -10384,30 +10304,14 @@ Néant.
 <div class="result">
 
 
-第一个网络位于集体锅炉的入风口中
+位于集合锅炉的入风口中的第一个网络装有能量计，通过隔热的钢管分配热量。
 
 
 </div>
 <div class="origin">
 
 
-Situées dans les gaines palières à partir de la chaudière collective, un premier réseau équipé
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-电能表的一部分通过隔热钢管分配热量。
-
-
-</div>
-<div class="origin">
-
-
-d’un compteur d’énergie distribue le chauffage par une canalisation en acier calorifugée.
+Situées dans les gaines palières à partir de la chaudière collective, un premier réseau équipé d’un compteur d’énergie distribue le chauffage par une canalisation en acier calorifugée.
 
 
 </div>

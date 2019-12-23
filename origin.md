@@ -126,8 +126,7 @@ Suivant destination, doublages éventuels par complexe isolant thermique ou acou
 #### 1.3.1. Dallage sur terre plein
 
 ```
-Dallage flottant en béton armé sur terre plein, surfacé, coulé sur forme en sablon compacté
-avec interposition d’un film d’étanchéité en polyane destiné à éviter les remontées d’humidité.
+Dallage flottant en béton armé sur terre plein, surfacé, coulé sur forme en sablon compacté avec interposition d’un film d’étanchéité en polyane destiné à éviter les remontées d’humidité.
 Suivant la nature du sol, remplacement du dallage flottant par une dalle portée en béton armé.
 Cunettes périphériques dans le sous-sol permettant de recueillir les eaux d’infiltration.
 Réseau sous dallage dans le sous-sol permettant de recueillir les eaux du parking avec bac de décantation et pompe de relevage.
@@ -539,8 +538,7 @@ Néant.
 
 ```
 Evier en acier inoxydable, avec un bac et un égouttoir, sur meuble en mélaminé blanc avec une porte et un emplacement pour lave-vaisselle.
-Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé
-blanc avec une porte.
+Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé blanc avec une porte.
 Robinetterie mitigeuse.
 ```
 2.9.1.2. Appareils et mobilier
@@ -662,8 +660,7 @@ Entrée :
 Cuisine :
 * 2 points d’éclairage en plafond et en applique commandés par double interrupteur o 1 sortie de fil en applique (pour hotte ou appareil de classe II non fournis)
 * 1 boîte de connexion de 32 A pour plaque de cuisson o 3 prises 20 A spécialisées pour four, lave-vaisselle et lave-linge (cette dernière peut être prévue dans la salle de bain suivant plans)
-* 6 prises 10/16 A, dont 4 au-dessus du plan de travail, 1 basse pour le réfrigérateur et 1 à
-proximité de l’interrupteur si accès PMR*
+* 6 prises 10/16 A, dont 4 au-dessus du plan de travail, 1 basse pour le réfrigérateur et 1 à proximité de l’interrupteur si accès PMR*
 * 1 prise TV de type RJ 45
 ```
 ```
@@ -690,8 +687,7 @@ Séjour :
 
 
 ```
-* 1 prise 10/16 A par tranche de 4m² habitable avec un minimum de 5 prises dont 1 à
-proximité de l’interrupteur si accès PMR*
+* 1 prise 10/16 A par tranche de 4m² habitable avec un minimum de 5 prises dont 1 à proximité de l’interrupteur si accès PMR*
 Pour les séjours de plus de 28m² le nombre de prises sera au choix du maitre d’ouvrage avec un minimum de 7 prises.
 Dans le cas d’une cuisine ouverte, la surface de la cuisine doit être déduite du calcul.
 * 2 prises de communication type RJ 45 juxtaposées (TV et téléphonie)
@@ -811,8 +807,7 @@ Escaliers intérieurs des duplex en bois ou en béton revêtu de bois.
 2.9.7.2. Domotique
 
 ```
-Chaque appartement sera équipé d’une passerelle IP permettant le raccordement ultérieur à
-une box internet (non fournie) et la connexion à une application depuis un smartphone.
+Chaque appartement sera équipé d’une passerelle IP permettant le raccordement ultérieur à une box internet (non fournie) et la connexion à une application depuis un smartphone.
 ```
 
 
@@ -1275,8 +1270,7 @@ Néant.
 5.2.1.5. Colonnes montantes
 
 ```
-Situées dans les gaines palières à partir de la chaudière collective, un premier réseau équipé
-d’un compteur d’énergie distribue le chauffage par une canalisation en acier calorifugée.
+Situées dans les gaines palières à partir de la chaudière collective, un premier réseau équipé d’un compteur d’énergie distribue le chauffage par une canalisation en acier calorifugée.
 A chaque étage, un piquage sur la colonne chauffage permettra d’alimenter chaque logement avec compteur individuel suivant offre VIGICONSO de PROXISERVE (sauf pour les logements de la cage A).
 ```
 #### 5.2.2. Service d’eau chaude
