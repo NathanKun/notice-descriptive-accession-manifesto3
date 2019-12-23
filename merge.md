@@ -3,7 +3,7 @@
 <div class="result">
 
 
-SNC考夫曼与广播宣传3
+SNC KAUFMAN & BROAD PROMOTION 3
 
 
 </div>
@@ -19,7 +19,7 @@ SNC KAUFMAN & BROAD PROMOTION 3
 <div class="result">
 
 
-戴高乐大街127号
+127 avenue Charles de Gaulle
 
 
 </div>
@@ -189,7 +189,7 @@ CHAPITRE 2 - LOCAUX PRIVATIFS ET LEURS EQUIPEMENTS
 <div class="result">
 
 
-第三章 - 私人时间表
+第3章 - 私人时间表
 
 
 </div>
@@ -240,7 +240,7 @@ CHAPITRE 5 - EQUIPEMENTS GENERAUX DE L’IMMEUBLE
 <div class="result">
 
 
-第六章 - 财产及其设备以外的普通零件
+第6章 - 财产及其设备以外的普通零件
 
 
 </div>
@@ -921,30 +921,14 @@ Voiles en béton armé de 18 cm d’épaisseur minimum, avec parements soignés 
 <div class="result">
 
 
-根据目的地，隔热或隔音复合材料可能会加倍，
+根据目的地，根据当前法规，隔热或隔音材料的厚度可能会加倍。
 
 
 </div>
 <div class="origin">
 
 
-Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-根据目前的规定。
-
-
-</div>
-<div class="origin">
-
-
-d’épaisseur suivant réglementation en vigueur.
+Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique, d’épaisseur suivant réglementation en vigueur.
 
 
 </div>
@@ -989,30 +973,14 @@ Voiles en béton armé de 18 cm d’épaisseur minimum ou murs en maçonnerie de
 <div class="result">
 
 
-根据目的地，隔热或隔音复合材料可能会加倍，
+根据目的地，根据当前法规，隔热或隔音材料的厚度可能会加倍。
 
 
 </div>
 <div class="origin">
 
 
-Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-根据目前的规定。
-
-
-</div>
-<div class="origin">
-
-
-d’épaisseur suivant réglementation en vigueur.
+Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique, d’épaisseur suivant réglementation en vigueur.
 
 
 </div>
@@ -1055,30 +1023,14 @@ Voiles en béton armé de 18 cm d’épaisseur minimum ou murs en maçonnerie de
 <div class="result">
 
 
-根据目的地，隔热或隔音复合材料可能会加倍，
+根据目的地，根据当前法规，隔热或隔音材料的厚度可能会加倍。
 
 
 </div>
 <div class="origin">
 
 
-Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-根据目前的规定。
-
-
-</div>
-<div class="origin">
-
-
-d’épaisseur suivant réglementation en vigueur.
+Suivant destination, doublages éventuels par complexe isolant thermique ou acoustique, d’épaisseur suivant réglementation en vigueur.
 
 
 </div>
@@ -1789,7 +1741,7 @@ Néant.
 <div class="result">
 
 
-在潮湿的房间中，通过布置在住宅技术管道中的柔性或金属管道进行机械通风，该管道与位于阁楼上的集体排烟组相连，包括屋顶上方的排渣残渣。
+在潮湿的房间中，通过布置在住宅技术管道中的柔性或金属导管进行机械通风，该导管与位于阁楼上的集体抽取组相连，包括屋顶外部的排泄应变。
 
 
 </div>
@@ -2263,30 +2215,14 @@ Châssis de toit, suivant plans.
 <div class="result">
 
 
-带有拉出控制装置的屋顶天窗可抽出楼梯间的烟雾
+屋顶上的天窗从楼梯间中抽出烟雾，并从一楼进行拉动释放控制。
 
 
 </div>
 <div class="origin">
 
 
-Désenfumage des cages d’escalier par skydome situé en toiture avec commande par tirez-
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-从底层放开。
-
-
-</div>
-<div class="origin">
-
-
-lâchez depuis le rez-de-chaussée.
+Désenfumage des cages d’escalier par skydome situé en toiture avec commande par tirez-lâchez depuis le rez-de-chaussée.
 
 
 </div>
@@ -2518,30 +2454,14 @@ Souche métallique ou maçonnée pour la ventilation haute du parking.
 <div class="result">
 
 
-CFP的单层实木复合地板，橡木壁板和工厂清漆，
+CFP，BERRY WOOD或BAUWERK或同等产品的单层镶木地板，橡木壁板和工厂清漆表面。
 
 
 </div>
 <div class="origin">
 
 
-Parquet contrecollé monolame, parement chêne et finition vernis usine de chez CFP,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-BERRY WOOD或BAUWERK或同等水平。
-
-
-</div>
-<div class="origin">
-
-
-BERRY WOOD ou BAUWERK ou équivalent.
+Parquet contrecollé monolame, parement chêne et finition vernis usine de chez CFP, BERRY WOOD ou BAUWERK ou équivalent.
 
 
 </div>
@@ -2801,30 +2721,14 @@ Jardins d’hiver : Dalles bois ou composite sur plots.
 <div class="result">
 
 
-房间内部和阳台之间的水平可能有所不同，
+根据PRM规定，住所内部与阳台，凉廊，露台和冬季花园之间的水平可能有所不同。
 
 
 </div>
 <div class="origin">
 
 
-Une différence de niveaux pourra exister entre l’intérieur des logements et les balcons,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-符合PRM规定的凉廊，露台和冬季花园。
-
-
-</div>
-<div class="origin">
-
-
-loggias, terrasses et jardins d’hiver, conformément à la réglementation PMR.
+Une différence de niveaux pourra exister entre l’intérieur des logements et les balcons, loggias, terrasses et jardins d’hiver, conformément à la réglementation PMR.
 
 
 </div>
@@ -3347,30 +3251,14 @@ Idem article 2.4.1.
 <div class="result">
 
 
-细木工房中集成了带有铝制板条和PVC盒的卷帘，
+细木工房中装有带铝板条的百叶窗和PVC盒，按计划放置。
 
 
 </div>
 <div class="origin">
 
 
-Volets roulants avec lames en aluminium avec coffre en PVC intégré aux menuiseries,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-按计划定位。
-
-
-</div>
-<div class="origin">
-
-
-localisation suivant plans.
+Volets roulants avec lames en aluminium avec coffre en PVC intégré aux menuiseries, localisation suivant plans.
 
 
 </div>
@@ -3767,7 +3655,7 @@ Microviseur.
 <div class="result">
 
 
-三点凹进式锁类A2P **，在组织结构图上带有钥匙和Vigik居民型徽章（钥匙和徽章的数量=主房间的数量，至少3个）。
+三点凹进式锁类A2P **，在组织结构图上带有钥匙和Vigik居民型徽章（钥匙和徽章的数量=主房间的数量，最少3个）。
 
 
 </div>
@@ -3850,7 +3738,7 @@ Butée de porte.
 <div class="result">
 
 
-根据计划，可滑动橱柜的柜门可任意高10 mm厚，采用SOGAL的白色三聚氰胺KENDOORS型或ROLER的PREMIUM或SIFISA的GRAFIC或类似产品制成的结构化饰面。
+根据计划，可滑动橱柜的柜门可任意高10 mm厚，采用SOGAL的白色三聚氰胺KENDOORS型或ROLER的PREMIUM或SIFISA的GRAFIC或同等结构的结构化饰面。
 
 
 </div>
@@ -4401,30 +4289,14 @@ Sur menuiseries bois : Impression et deux couches de peinture acrylique blanche,
 <div class="result">
 
 
-干燥室和开放式厨房：涂层，两层白色丙烯酸涂料，
+干燥室和开放式厨房：涂层，两层白色丙烯酸涂料，丝绒表面处理。
 
 
 </div>
 <div class="origin">
 
 
-Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-天鹅绒哑光效果。
-
-
-</div>
-<div class="origin">
-
-
-finition mate velours.
+Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche, finition mate velours.
 
 
 </div>
@@ -4468,30 +4340,14 @@ Pièces humides : Enduit, deux couches de peinture acrylique blanche, finition s
 <div class="result">
 
 
-干燥室和开放式厨房：涂层，两层白色丙烯酸涂料，
+干燥室和开放式厨房：涂层，两层白色丙烯酸涂料，丝绒表面处理。
 
 
 </div>
 <div class="origin">
 
 
-Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-亚光天鹅绒饰面。
-
-
-</div>
-<div class="origin">
-
-
-finition velours mate.
+Pièces sèches et cuisine ouverte : Enduit, deux couches de peinture acrylique blanche, finition velours mate.
 
 
 </div>
@@ -4708,7 +4564,7 @@ Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un b
 <div class="result">
 
 
-滤水器，2个电蒸煮盘，三聚氰胺柜中集成的冰箱
+滤水器，2个电烹饪盘，三聚氰胺柜中集成的冰箱
 
 
 </div>
@@ -5243,7 +5099,7 @@ Bac à douche extra-plat sur socle de 0,80 x 0,80 m (ou autres dimensions suivan
 <div class="result">
 
 
-根据计划，该盆集成在一个0.80m宽，带2个抽屉的白色三聚氰胺柜子上的瓷器顶部，该柜子有CULINA的CARA抽屉或SIBO的5003 C抽屉或同等品。
+根据计划，将盆集成到一个0.80m宽的白色三聚氰胺橱柜中的瓷台上，该橱柜有2个抽屉，CULINA的CARA型抽屉或SIBO或同等的5003 C抽屉。
 
 
 </div>
@@ -5261,7 +5117,7 @@ Vasque intégrée dans plan en porcelaine sur un meuble en mélaminé blanc de 0
 <div class="result">
 
 
-带有双重控制的马桶和低水箱，用白瓷制成，来自ROCA的VICTORIA类型，或来自VITRA的ZENTRUM，或来自PORCHER的ULYSSE 2或类似产品，带有白色PVC双盖。
+带有双重控制功能的马桶和低水箱，用白瓷制成，来自ROCA的VICTORIA类型，或来自VITRA的ZENTRUM，或来自PORCHER的ULYSSE 2或类似产品，带有白色PVC双盖。
 
 
 </div>
@@ -5685,7 +5541,7 @@ Cuisine :
 <div class="result">
 
 
-* 2个天花板和地面照明点，由双开关控制o 1个地面电线插座（不提供遮光罩或II类设备）
+* 天花板和墙壁上的2个照明点由双开关控制o墙壁上的1个电线插座（不提供遮光罩或II类设备）
 
 
 </div>
@@ -5701,7 +5557,7 @@ Cuisine :
 <div class="result">
 
 
-* 1 32用于炉灶的接线盒o 3专门用于烤箱，洗碗机和洗衣机的20 A插座（可根据计划在浴室中提供后者）
+* 1 32 A滚刀接线盒o 3专用20 A烤箱，洗碗机和洗衣机的插座（可根据计划在浴室中提供后者）
 
 
 </div>
@@ -5717,7 +5573,7 @@ Cuisine :
 <div class="result">
 
 
-* 6个10/16 A插座，包括工作台上方的4个，冰箱的1个低压和1个
+* 6个10/16 A插座，包括4个在工作台上方的插座，1个用于冰箱的低压插座和1个用于
 
 
 </div>
@@ -5749,7 +5605,7 @@ proximité de l’interrupteur si accès PMR*
 <div class="result">
 
 
-1个RJ 45电视插座
+* 1个RJ 45电视插座
 
 
 </div>
@@ -5783,7 +5639,7 @@ Kitchenette :
 <div class="result">
 
 
-* 1个天花板照明点，可通过简单的点火控制o 1 32 A滚刀接线盒o 2个专用20 A插座o 3 10/16 A插座：1个冰箱低位插座和2个高位插座，1个靠近插座如果PMR访问，则切换*
+* 1个天花板照明点由简单的点火控制o 1 32 A滚刀接线盒o 2个专用20 A插座o 3 10/16 A插座：1个冰箱低位插座和2个高位插座，1个靠近插座如果PMR访问，则切换*
 
 
 </div>
@@ -5817,7 +5673,7 @@ Dégagement :
 <div class="result">
 
 
-* 通过简单的点火或来回控制1个或2个天花板照明点o 1个插座10/16 A
+* 1个或2个天花板照明点通过简单的点火或来回控制o 1个插座10/16 A
 
 
 </div>
@@ -5851,7 +5707,7 @@ WC :
 <div class="result">
 
 
-* 门上方或天花板上的墙壁上有1个照明点o 1 10/16交换机附近的插座（如果无法访问，则为*）
+* 门上方或天花板上有1个照明点o 1 10/16交换机附近的插座（如果无法访问）
 
 
 </div>
@@ -5885,7 +5741,7 @@ Salle de bain et (ou) salle d’eau :
 <div class="result">
 
 
-* 双开关上的天花板上的1个照明点和洗脸盆柜上方的1个电源插座o洗脸盆附近的1 10/16 A高插座o开关附近的1 10/16 A插座如果禁用访问*
+* 双开关上天花板上的1个照明点和洗脸盆柜上方的1个电源插座o 1 10/16洗脸盆附近的高插座o 1 10/16开关附近的插座如果禁用访问*
 
 
 </div>
@@ -5935,30 +5791,14 @@ Séjour :
 <div class="result">
 
 
-* 通过简单的点火或来回控制1点天花板照明，
+* 天花板上的1点照明可以通过简单的点火或来回控制，具体取决于表面
 
 
 </div>
 <div class="origin">
 
 
-* 1 point d’éclairage en plafond commandé par simple allumage ou en va-et-vient,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-根据表面
-
-
-</div>
-<div class="origin">
-
-
-suivant surface
+* 1 point d’éclairage en plafond commandé par simple allumage ou en va-et-vient, suivant surface
 
 
 </div>
@@ -5971,7 +5811,7 @@ suivant surface
 <div class="result">
 
 
-* 每4平方米的居住空间1个10/16 A插座，至少5个插座，其中1至
+* 1个10/16 A插座，每节4m²可居住，至少5个插座，包括1至
 
 
 </div>
@@ -6035,7 +5875,7 @@ Dans le cas d’une cuisine ouverte, la surface de la cuisine doit être déduit
 <div class="result">
 
 
-* 2个并置的RJ 45型通信插座（电视和电话）
+* 2个并置的RJ 45型通信插孔（电视和电话）
 
 
 </div>
@@ -6069,7 +5909,7 @@ Chambre principale :
 <div class="result">
 
 
-* 1个天花板照明点，可通过简单的点火控制o 3 10/16 A插座o 1 10/16 A开关附近的插座（如果禁用则可使用）*
+* 1点天花板照明通过简单的点火控制o 3 10/16 A插座o 1 10/16 A开关附近的插座（如果无法访问）*
 
 
 </div>
@@ -6119,7 +5959,7 @@ Chambres et bureau :
 <div class="result">
 
 
-* 1个通过简单点火控制的天花板照明点o 3个10/16 A插座o 2个RJ 45型通信插座（电视和电话）
+* 1点天花板照明由简单点火控制o 3 10/16 A插座o 2 RJ 45型通信插座（电视和电话）
 
 
 </div>
@@ -6153,7 +5993,7 @@ Dressing, rangement, cellier, buanderie :
 <div class="result">
 
 
-* 门上方或天花板上的1点照明
+* 1点照明在门上方或天花板上
 
 
 </div>
@@ -6694,7 +6534,7 @@ Néant.
 <div class="result">
 
 
-* 客厅有1个RJ 45插座o所有卧室有1个RJ 45插座o厨房有1个RJ 45插座
+* 1个客厅RJ 45插座o所有卧室1个RJ 45插座o厨房1个RJ 45插座
 
 
 </div>
@@ -6969,7 +6809,7 @@ L’application permettra le contrôle à distance de :
 <div class="result">
 
 
-* 百叶窗的打开和关闭（不包括非电动百叶窗）
+* 卷帘百叶窗的打开和关闭（不包括电动百叶窗）
 
 
 </div>
@@ -7889,30 +7729,14 @@ Mise en place d’un tapis brosse au droit de la première porte du sas.
 <div class="result">
 
 
-喷涂涂料，装饰涂料，油漆，乙烯基涂料或装饰板，
+根据装修计划，投影涂料，装饰涂料，油漆，乙烯基涂料或装饰板。
 
 
 </div>
 <div class="origin">
 
 
-Revêtement projeté, enduit décoratif, peinture, revêtement vinylique ou panneaux décoratifs,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-根据装修计划。
-
-
-</div>
-<div class="origin">
-
-
-selon plan de décoration.
+Revêtement projeté, enduit décoratif, peinture, revêtement vinylique ou panneaux décoratifs, selon plan de décoration.
 
 
 </div>
@@ -8026,7 +7850,7 @@ Ensemble en acier laqué vitré, fermeture par ventouses électromagnétiques.
 <div class="result">
 
 
-通过数字代码控制，外门使用Vigik感应式徽章，内门使用可视电话和Vigik感应式徽章。
+通过数字代码控制，外门使用Vigik型接近标志，而内门通过可视电话和Vigik型接近标志进行控制。
 
 
 </div>
@@ -9557,30 +9381,14 @@ Dallage du sol en béton armé, finition carrelage grés cérame et plinthes ass
 <div class="result">
 
 
-钢筋混凝土墙或砖石墙，覆盖着高1.50 m的陶器，
+钢筋混凝土或砖石帆中的墙壁，其上涂有高出1.50 m的陶器，上面涂有乙烯基油漆。
 
 
 </div>
 <div class="origin">
 
 
-Murs en voiles de béton armé ou maçonneries, revêtus de faïences sur 1,50 m de hauteur,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-上面有乙烯基涂料。
-
-
-</div>
-<div class="origin">
-
-
-finition peinture vinylique au-dessus.
+Murs en voiles de béton armé ou maçonneries, revêtus de faïences sur 1,50 m de hauteur, finition peinture vinylique au-dessus.
 
 
 </div>
@@ -9752,30 +9560,14 @@ Sous-face de plafond en béton, finition peinture vinylique.
 <div class="result">
 
 
-带流程图锁和防撞杆的实木或金属检修门
+实木或金属检修门，带有流程图锁和应急杆，配有闭门器，油漆表面。
 
 
 </div>
 <div class="origin">
 
 
-Porte d’accès en bois à âme pleine ou en métal avec serrure sur organigramme et barre anti-
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-恐慌，装有闭门器，油漆表面。
-
-
-</div>
-<div class="origin">
-
-
-panique, équipée d’un ferme porte, finition peinture.
+Porte d’accès en bois à âme pleine ou en métal avec serrure sur organigramme et barre anti-panique, équipée d’un ferme porte, finition peinture.
 
 
 </div>
@@ -10023,30 +9815,14 @@ Sous-face de plafond et rampants en charpente bois ou béton.
 <div class="result">
 
 
-实木或金属制带锁下层甲板的下舱口，
+从底部着陆处以带锁，油漆表面的实木或金属制成的舱口盖。
 
 
 </div>
 <div class="origin">
 
 
-Trappe d’accès depuis le palier inférieur en bois à âme pleine ou en métal avec serrure,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-油漆完成。
-
-
-</div>
-<div class="origin">
-
-
-finition peinture.
+Trappe d’accès depuis le palier inférieur en bois à âme pleine ou en métal avec serrure, finition peinture.
 
 
 </div>
@@ -10381,30 +10157,14 @@ Vitesse 1 m/s minimum.
 <div class="result">
 
 
-自动层门，两层带侧向开口的门，在一楼用不锈钢制成
+自动层站门，一扇带有侧向开口的两扇门，在一楼用不锈钢制成，并在地下室和楼上进行油漆（建筑师选择的颜色）。
 
 
 </div>
 <div class="origin">
 
 
-Portes palières automatiques, deux vantaux à ouverture latérale, en acier inox à rez-de-
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-地下室和楼上的人行道和油漆（由建筑师选择的阴影）。
-
-
-</div>
-<div class="origin">
-
-
-chaussée et à peindre (teinte au choix de l’Architecte) dans le sous-sol et en étages.
+Portes palières automatiques, deux vantaux à ouverture latérale, en acier inox à rez-de-chaussée et à peindre (teinte au choix de l’Architecte) dans le sous-sol et en étages.
 
 
 </div>
@@ -10429,30 +10189,14 @@ Sol : dito revêtement de sol du hall du rez-de-chaussée.
 <div class="result">
 
 
-机舱装饰元素：制造商范围内的墙壁，应急照明，
+机舱装饰元素：制造商范围内的墙壁，安全照明，半假顶棚，镜子，扶手。
 
 
 </div>
 <div class="origin">
 
 
-Eléments de décoration de la cabine : parois dans gamme du fabricant, éclairage de sécurité,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-假天花板，镜子，扶手。
-
-
-</div>
-<div class="origin">
-
-
-faux-plafond partiel, miroir, main courante.
+Eléments de décoration de la cabine : parois dans gamme du fabricant, éclairage de sécurité, faux-plafond partiel, miroir, main courante.
 
 
 </div>
@@ -11914,30 +11658,14 @@ Béton désactivé ou enrobé noir ou dalles gravillonnées ou pavés, suivant p
 <div class="result">
 
 
-地形与初始站点的自然坡度相关。如果需要在几批之间进行水位调节，则可以通过路堤来完成，
+地形与初始站点的自然坡度相关。如果需要在几批之间进行平整，则可以通过路堤或支撑构件来完成。
 
 
 </div>
 <div class="origin">
 
 
-Les modelés de terrains sont liés à la pente naturelle du site initial. Lorsqu’un rattrapage de niveau entre plusieurs lots est nécessaire, celui-ci se fera par l’intermédiaire, soit de talus,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-或支持元素。
-
-
-</div>
-<div class="origin">
-
-
-soit d’éléments de soutènement.
+Les modelés de terrains sont liés à la pente naturelle du site initial. Lorsqu’un rattrapage de niveau entre plusieurs lots est nécessaire, celui-ci se fera par l’intermédiaire, soit de talus, soit d’éléments de soutènement.
 
 
 </div>
@@ -12000,30 +11728,14 @@ Néant.
 <div class="result">
 
 
-在有利的时期，种植高大的树木，灌木和树篱，
+在优惠期间，根据建筑许可计划，种植高大的树木，灌木和绿篱。
 
 
 </div>
 <div class="origin">
 
 
-Pendant la période favorable, plantation d’arbres de haute tige, d’arbustes et de haies vives,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-按照建筑许可计划。
-
-
-</div>
-<div class="origin">
-
-
-conformément au plan du Permis de Construire.
+Pendant la période favorable, plantation d’arbres de haute tige, d’arbustes et de haies vives, conformément au plan du Permis de Construire.
 
 
 </div>
@@ -12903,30 +12615,14 @@ Néant.
 <div class="result">
 
 
-6.7.10。疏散地面上的雨水和径流，绿色空间，小径，
+6.7.10. 疏散地面，绿地，道路，区域，路线和运动场上的雨水和径流
 
 
 </div>
 <div class="origin">
 
 
-6.7.10. Evacuation des eaux de pluies et de ruissellement sur le terrain, espaces verts, chemins,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-区域，课程和游戏
-
-
-</div>
-<div class="origin">
-
-
-aires, cours et jeux
+6.7.10. Evacuation des eaux de pluies et de ruissellement sur le terrain, espaces verts, chemins, aires, cours et jeux
 
 
 </div>
@@ -12970,30 +12666,14 @@ Bassin de rétention pour régulation des eaux pluviales enterré selon étude h
 <div class="result">
 
 
-注意：公司有权对服务，结构，
+注意：为了解决技术问题或完成或完善建筑效果或外观设计，公司可以对服务，结构，内部和外部装饰进行正确的更改。交易的协调，或在发生不可抗力的情况下，尤其是：
 
 
 </div>
 <div class="origin">
 
 
-NOTA : La société peut apporter des modifications, admises de plein droit, de prestations, de structure,
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-室内和室外配件，目的是解决技术问题或完成或完善建筑效果或操作的协调性，或者在发生不可抗力的情况下，特别是：
-
-
-</div>
-<div class="origin">
-
-
-d’agencements intérieurs et extérieurs, dans le but de résoudre un problème technique ou de compléter ou de parfaire soit l’effet architectural, soit l’harmonie de l’opération, ou en cas de force majeure légitime, notamment :
+NOTA : La société peut apporter des modifications, admises de plein droit, de prestations, de structure, d’agencements intérieurs et extérieurs, dans le but de résoudre un problème technique ou de compléter ou de parfaire soit l’effet architectural, soit l’harmonie de l’opération, ou en cas de force majeure légitime, notamment :
 
 
 </div>
@@ -13036,7 +12716,7 @@ d’agencements intérieurs et extérieurs, dans le but de résoudre un problèm
 <div class="result">
 
 
-* 如果出现供应缺陷或延迟，
+* 如果出现缺陷或供应延迟，
 
 
 </div>
@@ -13052,7 +12732,7 @@ d’agencements intérieurs et extérieurs, dans le but de résoudre un problèm
 <div class="result">
 
 
-* 在施工过程中出现新设备时，
+* 在施工期间出现新设备的情况下，
 
 
 </div>
@@ -13068,7 +12748,7 @@ d’agencements intérieurs et extérieurs, dans le but de résoudre un problèm
 <div class="result">
 
 
-* 如果技术上的不可能性使它有义务放弃该或该规定。
+* 如果技术上的不可能性使其有义务放弃此类规定。
 
 
 </div>
@@ -13085,7 +12765,7 @@ d’agencements intérieurs et extérieurs, dans le but de résoudre un problèm
 <div class="result">
 
 
-另外，购买者在任何情况下都不能要求本说明书中提供的任何服务，只要制造商提供的替换设备和材料具有同等质量即可。
+另外，购买者在任何情况下都不能要求本说明书中提供的任何服务，只要替换材料和制造商提供的材料具有同等质量即可。
 
 
 </div>
@@ -13117,7 +12797,7 @@ De même, il est précisé que les cotes et surfaces mentionnées dans la prése
 <div class="result">
 
 
-设备或设备的位置在本手册中也有提及，并显示在计划中以供参考。辐射图，拱腹和假天花板显示在计划中，以供参考，并可能根据技术要求进行更改。不包括管道和对流器。
+设备或设备的位置在本手册中也有提及，并显示在计划中以供参考。辐射图，拱腹和假天花板显示在计划中，以供参考，并可能会根据技术要求进行更改。不包括管道和对流器。
 
 
 </div>
@@ -13133,7 +12813,7 @@ L’implantation des équipements ou appareils est par ailleurs mentionnée dans
 <div class="result">
 
 
-将提供的颜色选择的不同可能性只能在现场进展的范围内进行。
+将提供的各种颜色选择可能性只能在现场进度的限制内进行。
 
 
 </div>
@@ -13165,7 +12845,7 @@ Le parc de stationnement n’est pas soumis à la norme NFP 91.120.
 <div class="result">
 
 
-购买者认识到这些条款是必不可少的，没有这些条款，制造商就不会与他订立合同。
+购买者认为这些条款是必不可少的，没有这些条款，制造商就不会与他订立合同。
 
 
 </div>
@@ -13178,18 +12858,4 @@ L’acquéreur reconnaît ces clauses comme étant essentielles sans quoi le con
 </div>
 </div>
 
-<div>
-<div class="result">
 
-
-
-
-</div>
-<div class="origin">
-
-
-
-
-
-</div>
-</div>
