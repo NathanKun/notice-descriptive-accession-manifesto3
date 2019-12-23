@@ -87,14 +87,14 @@ SNC KAUFMAN & BROAD PROMOTION 3
 <div class="result">
 
 
-### 舒适+
+## 舒适+
 
 
 </div>
 <div class="origin">
 
 
-### CONFORT +
+## CONFORT +
 
 
 </div>
@@ -138,14 +138,14 @@ SNC KAUFMAN & BROAD PROMOTION 3
 <div class="result">
 
 
-## 101个集体住房的财产组
+### 101个集体住房的财产组
 
 
 </div>
 <div class="origin">
 
 
-## ENSEMBLE IMMOBILIER DE 101 LOGEMENTS COLLECTIFS
+### ENSEMBLE IMMOBILIER DE 101 LOGEMENTS COLLECTIFS
 
 
 </div>
@@ -4548,30 +4548,14 @@ Evier en acier inoxydable, avec un bac et un égouttoir, sur meuble en mélamin�
 <div class="result">
 
 
-根据计划，小厨房由一个不锈钢水槽，一个碗和一个厨房组成。
+根据计划，小厨房包括一个带水槽和一个沥水架的不锈钢水槽，两个电烹饪盘，一个集成在三聚氰胺柜中的冰箱。
 
 
 </div>
 <div class="origin">
 
 
-Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-滤水器，2个电烹饪盘，三聚氰胺柜中集成的冰箱
-
-
-</div>
-<div class="origin">
-
-
-égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé
+Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé
 
 
 </div>
@@ -5065,30 +5049,14 @@ Baignoire blanche, en acier émaillé de 1,70 x 0,75 m type PRINCESS de chez ROC
 <div class="result">
 
 
-超薄淋浴盘，底座为0.80 x 0.80 m（或根据计划的其他尺寸），用白瓷制成，可从KINEDO输入KINESTART或从VITRA输入OCEAN或
+根据平面图，在0.80 x 0.80 m（或其他尺寸，根据计划）的白瓷底座上的超平淋浴盆，可使用KINEDO的KINESTART或VITRA的OCEAN或同类产品。
 
 
 </div>
 <div class="origin">
 
 
-Bac à douche extra-plat sur socle de 0,80 x 0,80 m (ou autres dimensions suivant plans) en porcelaine blanche, type KINESTART de chez KINEDO ou OCEAN de chez VITRA ou
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-等价于计划。
-
-
-</div>
-<div class="origin">
-
-
-équivalent, suivant plans.
+Bac à douche extra-plat sur socle de 0,80 x 0,80 m (ou autres dimensions suivant plans) en porcelaine blanche, type KINESTART de chez KINEDO ou OCEAN de chez VITRA ou équivalent, suivant plans.
 
 
 </div>
@@ -8666,30 +8634,14 @@ En béton surfacé, finition peinture de sol.
 <div class="result">
 
 
-在上层建筑中：混凝土或砖石建筑，喷涂的石膏面漆类型为“ Bagar”或
+在上层建筑中：混凝土或砖石建筑，喷涂的石膏表面类型为“ Bagar”或同等类型。
 
 
 </div>
 <div class="origin">
 
 
-En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-等价的。
-
-
-</div>
-<div class="origin">
-
-
-équivalent.
+En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou équivalent.
 
 
 </div>
@@ -8733,30 +8685,14 @@ En infrastructure : béton ou maçonneries, finition peinture vinylique.
 <div class="result">
 
 
-在上层建筑中：混凝土或砖石建筑，喷涂的石膏面漆类型为“ Bagar”或
+在上层建筑中：混凝土或砖石建筑，喷涂的石膏表面类型为“ Bagar”或同等类型。
 
 
 </div>
 <div class="origin">
 
 
-En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-等价的。
-
-
-</div>
-<div class="origin">
-
-
-équivalent.
+En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou équivalent.
 
 
 </div>
@@ -10308,30 +10244,14 @@ Pour les logements des cages B et C uniquement.
 <div class="result">
 
 
-集体燃气锅炉将采用DE DIETRICH的“冷凝”型或
+集体燃气锅炉为DE DIETRICH公司的“冷凝”型或类似产品。
 
 
 </div>
 <div class="origin">
 
 
-La chaudière collective gaz sera du type « à condensation » de chez DE DIETRICH ou
-
-
-</div>
-</div>
-<div>
-<div class="result">
-
-
-等价的。
-
-
-</div>
-<div class="origin">
-
-
-équivalent.
+La chaudière collective gaz sera du type « à condensation » de chez DE DIETRICH ou équivalent.
 
 
 </div>

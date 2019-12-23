@@ -539,8 +539,7 @@ Néant.
 
 ```
 Evier en acier inoxydable, avec un bac et un égouttoir, sur meuble en mélaminé blanc avec une porte et un emplacement pour lave-vaisselle.
-Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un
-égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé
+Suivant plans, kitchenette composée d’un évier en acier inoxydable avec un bac et un égouttoir, 2 plaques de cuisson électriques, un réfrigérateur intégré dans meuble mélaminé
 blanc avec une porte.
 Robinetterie mitigeuse.
 ```
@@ -606,8 +605,7 @@ Le branchement de la machine à laver le linge pourra être situé dans la salle
 Baignoire blanche, en acier émaillé de 1,70 x 0,75 m type PRINCESS de chez ROCA ou SANIFORM STAR de chez KALDEWEI ou équivalent, suivant plans.
 ```
 ```
-Bac à douche extra-plat sur socle de 0,80 x 0,80 m (ou autres dimensions suivant plans) en porcelaine blanche, type KINESTART de chez KINEDO ou OCEAN de chez VITRA ou
-équivalent, suivant plans.
+Bac à douche extra-plat sur socle de 0,80 x 0,80 m (ou autres dimensions suivant plans) en porcelaine blanche, type KINESTART de chez KINEDO ou OCEAN de chez VITRA ou équivalent, suivant plans.
 ```
 ```
 Vasque intégrée dans plan en porcelaine sur un meuble en mélaminé blanc de 0,80m de largeur avec 2 tiroirs, de type CARA tiroirs de chez CULINA ou 5003 C tiroirs de chez SIBO ou équivalent, suivant plans.
@@ -1072,15 +1070,13 @@ En béton surfacé, finition peinture de sol.
 #### 4.4.2. Murs
 
 ```
-En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou
-équivalent.
+En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou équivalent.
 En infrastructure : béton ou maçonneries, finition peinture vinylique.
 ```
 #### 4.4.3. Plafonds
 
 ```
-En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou
-équivalent.
+En superstructure : béton ou maçonneries, finition enduit projeté type « Bagar » ou équivalent.
 En infrastructure : béton ou maçonneries, finition peinture vinylique.
 ```
 #### 4.4.4. Escaliers (marches, contre-marches)
@@ -1259,8 +1255,7 @@ Pour les logements des cages B et C uniquement.
 5.2.1.1. Production de chaleur
 
 ```
-La chaudière collective gaz sera du type « à condensation » de chez DE DIETRICH ou
-équivalent.
+La chaudière collective gaz sera du type « à condensation » de chez DE DIETRICH ou équivalent.
 ```
 5.2.1.2. Régulation automatique
 
