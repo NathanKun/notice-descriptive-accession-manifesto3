@@ -1,0 +1,24 @@
+body {
+	font-family: Roboto,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+	color: #444;
+	font-size: 14px;
+	-webkit-font-smoothing: antialiased;
+}
+
+.paragraphe {
+	background-color: #eeeeee66
+}
+
+.origin {
+	color: #66ccff;
+	border-top: 1px dashed #0273d4;
+	display: none;
+}
+
+.result {
+	
+}
+
+#content {
+	margin: 5vh;
+}
